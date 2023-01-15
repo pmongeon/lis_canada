@@ -1,7 +1,7 @@
-author_id,first_name,last_name,status,last_known_institution,google_scholar,orcid,openalex
+﻿author_id,first_name,last_name,status,last_known_institution,google_scholar,orcid,openalex
 2500,Lynne,Bowker,academic,University of Ottawa,"""https://scholar.google.ca/citations?user=0xM9E9AAAAAJ&hl=en""","""https://orcid.org/0000-0002-0848-1035""",https://openalex.org/A2019832854
-1,Chantal,Beauregard,practitioner,UniversitÃ© Laval,NA,NA,NA
-10,Catherine,Lamy,practitioner,UniversitÃ© Laval,NA,NA,NA
+1,Chantal,Beauregard,practitioner,Université Laval,NA,NA,NA
+10,Catherine,Lamy,practitioner,Université Laval,NA,NA,NA
 100,Mylène,Pinard,practitioner,McGill University,NA,NA,NA
 1000,Enid M.,Mcfadden,practitioner,Western University,NA,NA,NA
 1001,Christena,Mckillop,practitioner,Western University,NA,"""https://orcid.org/0000-0002-0340-257X"", ""https://orcid.org/0000-0002-0340-257X""",NA
@@ -112,7 +112,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1097,Kathryn,Harvey,practitioner,University of Guelph,NA,NA,"https://openalex.org/A2963521295, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2673003970, https://openalex.org/A2168712204, https://openalex.org/A2696425431, https://openalex.org/A2168712204, https://openalex.org/A4202105359, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2136476849, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2701101069, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2136476849, https://openalex.org/A2136476849, https://openalex.org/A2668802947, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2098207664, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2136476849, https://openalex.org/A2136476849, https://openalex.org/A2668802947, https://openalex.org/A2646020228, https://openalex.org/A2668802947, https://openalex.org/A2168712204, https://openalex.org/A2168712204, https://openalex.org/A2136476849"
 1098,Kirkby,Ryan,practitioner,University of Guelph,NA,NA,NA
 1099,Melissa,Mcafee,practitioner,University of Guelph,NA,NA,NA
-11,Louise,Leblanc,practitioner,UniversitÃ© Laval,NA,NA,NA
+11,Louise,Leblanc,practitioner,Université Laval,NA,NA,NA
 110,Sonia,Smith,practitioner,McGill University,NA,"""https://orcid.org/0000-0003-4337-9164""",NA
 1100,Curtis,Sassur,practitioner,University of Guelph,NA,NA,NA
 1101,Shifflett,Mcbrayne,practitioner,University of Guelph,NA,NA,NA
@@ -223,7 +223,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1197,Ruby,Warren,practitioner,University of Manitoba,"""https://scholar.google.com/citations?hl=en&user=oKxdcNsAAAAJ""","""https://orcid.org/0000-0003-4082-3434""",NA
 1198,Ryan,Schultz,practitioner,University of Manitoba,"""https://scholar.google.com/citations?hl=en&user=VqLdk70AAAAJ""","""https://orcid.org/0000-0002-8412-7302""",NA
 1199,Sarah,Clark,practitioner,University of Manitoba,NA,"""https://orcid.org/0000-0002-4577-4777""",NA
-12,Sonia,Léger,practitioner,UniversitÃ© Laval,NA,NA,NA
+12,Sonia,Léger,practitioner,Université Laval,NA,NA,NA
 120,Mary,Hague-Yearl,practitioner,McGill University,NA,NA,NA
 1200,Sherri,Vokey,practitioner,University of Manitoba,"""https://scholar.google.com/citations?hl=en&user=jQZxni8AAAAJ""","""https://orcid.org/0000-0002-2396-0413""",NA
 1201,Vera,Keown,practitioner,University of Manitoba,"""https://scholar.google.com/citations?hl=en&user=e1I0TZ8AAAAJ""","""https://orcid.org/0000-0002-8694-2175""",NA
@@ -333,7 +333,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1297,Shawne,Holcomb,practitioner,University of PEI,NA,NA,NA
 1298,Yolanda,Hood,practitioner,University of PEI,NA,"""https://orcid.org/0000-0003-0915-4260""","https://openalex.org/A2292746250, https://openalex.org/A2292746250, https://openalex.org/A3181685422"
 1299,Betty,Jeffery,practitioner,University of PEI,NA,NA,NA
-13,Normand,Pelletier,practitioner,UniversitÃ© Laval,NA,NA,NA
+13,Normand,Pelletier,practitioner,Université Laval,NA,NA,NA
 130,Susanna,Galbraith,practitioner,McMaster University,"""https://scholar.google.com/citations?hl=en&user=GhqYnfEAAAAJ""","""https://orcid.org/0000-0002-5340-8478""",NA
 1300,Mackenzie,Johnson,practitioner,University of PEI,NA,"""https://orcid.org/0000-0002-9358-5081""",NA
 1301,Rosemary (Rosie),La Faive,practitioner,University of PEI,"""https://scholar.google.ca/citations?user=f_u2IEsAAAAJ&hl=en""","""https://orcid.org/0000-0002-0116-0984""",NA
@@ -443,7 +443,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1397,Deborah,Hemming,practitioner,Acadia University,NA,"""https://orcid.org/0000-0001-5245-0546""",NA
 1398,Maggie,Nielson,practitioner,Acadia University,NA,"""https://orcid.org/0000-0003-4669-9585""",NA
 1399,Ann,Smith,practitioner,Acadia University,NA,"""https://orcid.org/0000-0002-3892-3498""",NA
-14,Gaston,Quirion,practitioner,UniversitÃ© Laval,NA,NA,NA
+14,Gaston,Quirion,practitioner,Université Laval,NA,NA,NA
 140,Maureen,Rice,practitioner,McMaster University,NA,NA,NA
 1400,Pat,Townsend,practitioner,Acadia University,NA,NA,NA
 1401,Britanie,Wentzell,practitioner,Acadia University,NA,NA,NA
@@ -554,7 +554,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1497,Lydia,Zvyagintseva,practitioner,Univeristy of Alberta,NA,NA,NA
 1498,Geoffrey,Harder,practitioner,Univeristy of Alberta,NA,"""https://orcid.org/0000-0002-0686-1405""","https://openalex.org/A2281085840, https://openalex.org/A2225403868, https://openalex.org/A2195884488, https://openalex.org/A2983408775, https://openalex.org/A2225403868, https://openalex.org/A2655162182"
 1499,Denise,Lafitte,practitioner,Univeristy of Alberta,"""https://scholar.google.com/citations?hl=en&user=GI865CUAAAAJ""","""https://orcid.org/0000-0002-7410-6735""",NA
-15,Gabriela-Magdalena,Sofian,practitioner,UniversitÃ© Laval,NA,NA,NA
+15,Gabriela-Magdalena,Sofian,practitioner,Université Laval,NA,NA,NA
 150,Jason,Brodeur,practitioner,McMaster University,NA,"""https://orcid.org/0000-0001-7118-8360""",NA
 1500,Sharon,Murphy,practitioner,Univeristy of Alberta,NA,NA,NA
 1501,Weiwei,Shi,practitioner,Univeristy of Alberta,NA,"""https://orcid.org/0000-0002-1799-4393""",NA
@@ -588,7 +588,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1527,Alexis,Haddon,practitioner,University of the Fraser Valley,NA,NA,NA
 1528,Janelle,(Haley) Sztuhar,practitioner,University of the Fraser Valley,NA,NA,NA
 1529,Selena,Karli,practitioner,University of the Fraser Valley,NA,NA,NA
-153,Viviane,Angers,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+153,Viviane,Angers,practitioner,Université de Montréal,NA,NA,NA
 1530,Hongfei,Li,practitioner,University of the Fraser Valley,NA,"""https://orcid.org/0000-0002-1540-0918""",NA
 1531,Mary-Anne,Macdougall,practitioner,University of the Fraser Valley,NA,NA,NA
 1532,Hui-Hui,Ou,practitioner,University of the Fraser Valley,NA,NA,NA
@@ -599,7 +599,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1537,Stanislav,Orlov,practitioner,Mount St. Vincent University,"""https://scholar.google.ca/citations?user=NZnBTocAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-4773-5971""",NA
 1538,Meg,Raven,practitioner,Mount St. Vincent University,NA,NA,NA
 1539,Denyse,Rodrigues,practitioner,Mount St. Vincent University,"""https://scholar.google.ca/citations?user=TM3k37YAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-4575-6878""",NA
-154,Nadège,Arsa,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+154,Nadège,Arsa,practitioner,Université de Montréal,NA,NA,NA
 1540,Alina,Ruiz,practitioner,Mount St. Vincent University,NA,NA,NA
 1541,Sandra,Sawchuk,practitioner,Mount St. Vincent University,"""https://scholar.google.ca/citations?user=tRuSulkAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-5894-0183""",NA
 1542,Rebecca,Young,practitioner,NSCAD,NA,NA,NA
@@ -610,7 +610,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1547,Mitchell,Jabalee,practitioner,Cape Breton University,NA,NA,NA
 1548,Deanna,Manolakos,practitioner,Cape Breton University,NA,NA,NA
 1549,Martin,Chandler,practitioner,Cape Breton University,"""https://scholar.google.com/citations?hl=en&user=VGrvB4kAAAAJ""",NA,NA
-155,Denis,Arvisais,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0001-7727-4104""",NA
+155,Denis,Arvisais,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0001-7727-4104""",NA
 1550,Jasmine,Hoover,practitioner,Cape Breton University,"""https://scholar.google.com/citations?hl=en&user=QNVTPBMAAAAJ""","""https://orcid.org/0000-0002-3563-6952""",NA
 1551,Jason,Lee,practitioner,Cape Breton University,NA,NA,NA
 1552,Courtney,Vienneau,practitioner,Cape Breton University,NA,NA,NA
@@ -621,7 +621,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1557,Rosalie,Robicheau,practitioner,Universite Sainte-Anne,NA,NA,NA
 1558,Josiane,Boucher Mullen,practitioner,Universite Sainte-Anne,NA,NA,NA
 1559,Jeannie,Bail,practitioner,University of New Brunswick,NA,"""https://orcid.org/0000-0001-5017-8198""",NA
-156,Teresa,Bascik,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+156,Teresa,Bascik,practitioner,Université de Montréal,NA,NA,NA
 1560,Lesley,Balcom,practitioner,University of New Brunswick,NA,NA,NA
 1561,Beverly,Benedict,practitioner,University of New Brunswick,NA,NA,NA
 1562,Rachel,Benzenhoefer,practitioner,University of New Brunswick,NA,NA,NA
@@ -632,7 +632,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1567,Emily,Brennan,practitioner,University of New Brunswick,NA,NA,NA
 1568,Ann,Bridges,practitioner,University of New Brunswick,NA,NA,NA
 1569,Cheryle,Brown,practitioner,University of New Brunswick,NA,NA,NA
-157,Mélanie,Avice,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+157,Mélanie,Avice,practitioner,Université de Montréal,NA,NA,NA
 1570,Jeff,Carter,practitioner,University of New Brunswick,NA,NA,NA
 1571,Brian,Cassidy,practitioner,University of New Brunswick,NA,NA,NA
 1572,Caitlin,Christie,practitioner,University of New Brunswick,NA,NA,NA
@@ -643,7 +643,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1577,Kira,Della Valle,practitioner,University of New Brunswick,NA,NA,NA
 1578,Joshua,Dickson,practitioner,University of New Brunswick,NA,NA,NA
 1579,Amanda,Duffie,practitioner,University of New Brunswick,NA,NA,NA
-158,Diane,Baillargeon,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+158,Diane,Baillargeon,practitioner,Université de Montréal,NA,NA,NA
 1580,Evan,Echols,practitioner,University of New Brunswick,NA,NA,NA
 1581,Angela,Extell,practitioner,University of New Brunswick,NA,NA,NA
 1582,Beth A,Ferguson,practitioner,University of New Brunswick,NA,NA,NA
@@ -654,7 +654,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1587,Leah,Grandy,practitioner,University of New Brunswick,NA,NA,NA
 1588,Jenna,Granger,practitioner,University of New Brunswick,NA,"""https://orcid.org/0000-0002-0304-8013""",NA
 1589,Siobhan,Hanratty,practitioner,University of New Brunswick,NA,NA,NA
-159,Valérie,Bastien,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+159,Valérie,Bastien,practitioner,Université de Montréal,NA,NA,NA
 1590,Christine,Jack,practitioner,University of New Brunswick,NA,NA,NA
 1591,Zoe,Jackson,practitioner,University of New Brunswick,NA,NA,NA
 1592,Patti,Auld Johnson,practitioner,University of New Brunswick,NA,NA,NA
@@ -665,8 +665,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1597,Feng,Le,practitioner,University of New Brunswick,NA,NA,NA
 1598,Craig,Leblanc,practitioner,University of New Brunswick,NA,NA,NA
 1599,Christine,Lovelace,practitioner,University of New Brunswick,NA,NA,NA
-16,Annie,Bérubé,practitioner,UniversitÃ© Laval,NA,NA,NA
-160,Maryna,Beaulieu,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+16,Annie,Bérubé,practitioner,Université Laval,NA,NA,NA
+160,Maryna,Beaulieu,practitioner,Université de Montréal,NA,NA,NA
 1600,Samantha,Macdonald,practitioner,University of New Brunswick,NA,NA,NA
 1601,Mallory,Macdonald,practitioner,University of New Brunswick,NA,"""https://orcid.org/0000-0002-0272-6935""",NA
 1602,James,Macintosh,practitioner,University of New Brunswick,NA,NA,NA
@@ -677,7 +677,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1607,Jeremy,Mcdermott,practitioner,University of New Brunswick,NA,NA,NA
 1608,Nancy,Mclaughlin,practitioner,University of New Brunswick,NA,NA,NA
 1609,Alicia,Mclaughlin,practitioner,University of New Brunswick,NA,"""https://orcid.org/0000-0001-5196-9928""",NA
-161,Lyne,Bélanger,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+161,Lyne,Bélanger,practitioner,Université de Montréal,NA,NA,NA
 1610,Doreen,Mclellan-Savoie,practitioner,University of New Brunswick,NA,NA,NA
 1611,Mike,Meade,practitioner,University of New Brunswick,NA,NA,NA
 1612,Erik,Moore,practitioner,University of New Brunswick,NA,NA,NA
@@ -688,7 +688,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1617,Susan,Oliver,practitioner,University of New Brunswick,NA,NA,NA
 1618,Jenny,Palk,practitioner,University of New Brunswick,NA,NA,NA
 1619,Lisa,Pollock,practitioner,University of New Brunswick,NA,NA,NA
-162,Nathalie,Bélanger,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+162,Nathalie,Bélanger,practitioner,Université de Montréal,NA,NA,NA
 1620,David,Ross,practitioner,University of New Brunswick,NA,NA,NA
 1621,Linda,Roulston,practitioner,University of New Brunswick,NA,NA,NA
 1622,Julia,Roy,practitioner,University of New Brunswick,NA,NA,NA
@@ -699,7 +699,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1627,Alanna L,Simpson,practitioner,University of New Brunswick,NA,NA,NA
 1628,Nicole,Slipp,practitioner,University of New Brunswick,NA,"""https://orcid.org/0000-0002-5247-2734""",NA
 1629,Agnieszka,Sliwka,practitioner,University of New Brunswick,NA,NA,NA
-163,Pascale,Bellemare,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+163,Pascale,Bellemare,practitioner,Université de Montréal,NA,NA,NA
 1630,Harmony,Smeltzer,practitioner,University of New Brunswick,NA,NA,NA
 1631,Pamela,Smith,practitioner,University of New Brunswick,NA,NA,NA
 1632,Hilary,Smith,practitioner,University of New Brunswick,NA,NA,NA
@@ -710,7 +710,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1637,Mario,Tiozzo,practitioner,University of New Brunswick,NA,NA,NA
 1638,Camilo,Villamizar,practitioner,University of New Brunswick,NA,NA,NA
 1639,Kimberly,Vose Jones,practitioner,University of New Brunswick,NA,NA,NA
-164,Catherine,Bernier,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+164,Catherine,Bernier,practitioner,Université de Montréal,NA,NA,NA
 1640,Matty,Watson,practitioner,University of New Brunswick,NA,NA,NA
 1641,Mary-Kathryn,Whitney,practitioner,University of New Brunswick,NA,NA,NA
 1642,Richelle,Witherspoon,practitioner,University of New Brunswick,NA,"""https://orcid.org/0000-0002-8182-2940""",NA
@@ -721,7 +721,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1647,Lynn,Bissonnette,practitioner,University De Moncton,NA,NA,NA
 1648,Norman,Chiasson,practitioner,University De Moncton,NA,NA,NA
 1649,Carole,Cyr,practitioner,University De Moncton,NA,"""https://orcid.org/0000-0001-9156-0182""",NA
-165,Éric,Bouchard,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+165,Éric,Bouchard,practitioner,Université de Montréal,NA,NA,NA
 1650,Johanne,Degarie,practitioner,University De Moncton,NA,NA,NA
 1651,Ginette,Doucet,practitioner,University De Moncton,NA,NA,NA
 1652,Charlotte,Duguay,practitioner,University De Moncton,NA,NA,NA
@@ -732,7 +732,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1657,Pierre,Goguen,practitioner,University De Moncton,NA,"""https://orcid.org/0000-0002-6409-4726""",NA
 1658,Mark,Harper,practitioner,University De Moncton,NA,NA,NA
 1659,Adel,Labidi,practitioner,University De Moncton,NA,NA,NA
-166,Martine,Bourion,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+166,Martine,Bourion,practitioner,Université de Montréal,NA,NA,NA
 1660,Caroline,Leblanc,practitioner,University De Moncton,NA,NA,NA
 1661,Mauritius,Malenfant,practitioner,University De Moncton,NA,NA,NA
 1662,Natalie,Parent,practitioner,University De Moncton,NA,NA,NA
@@ -743,7 +743,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1667,Victoria,Volkanova,practitioner,University De Moncton,"""https://scholar.google.com/citations?hl=en&user=O5NeVbUAAAAJ""",NA,NA
 1668,Lindsay,Alcock,practitioner,Memorial University,NA,"""https://orcid.org/0000-0002-6428-5768""",NA
 1669,Erin,Alcock,practitioner,Memorial University,NA,NA,NA
-167,Marilou,Bourque,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+167,Marilou,Bourque,practitioner,Université de Montréal,NA,NA,NA
 1670,Alison,Ambi,practitioner,Memorial University,"""https://scholar.google.com/citations?hl=en&user=pT4TcXkAAAAJ""","""https://orcid.org/0000-0003-4872-5142""",NA
 1671,Aishah,Azam,practitioner,Memorial University,NA,"""https://orcid.org/0000-0002-7039-2260""",NA
 1672,Aspi,Balsara,practitioner,Memorial University,NA,NA,NA
@@ -754,7 +754,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1677,Mark,Brown,practitioner,Memorial University,NA,NA,NA
 1678,Nicole,Cahill,practitioner,Memorial University,NA,NA,NA
 1679,Jessica,Cahill-Bouzane,practitioner,Memorial University,NA,NA,NA
-168,Myriam,Boyer,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+168,Myriam,Boyer,practitioner,Université de Montréal,NA,NA,NA
 1680,Alice,Canning,practitioner,Memorial University,NA,NA,NA
 1681,Amy,Clark,practitioner,Memorial University,NA,NA,NA
 1682,Terri-Lynn,Condon,practitioner,Memorial University,NA,NA,NA
@@ -765,7 +765,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1687,Michaela,Doucette,practitioner,Memorial University,NA,NA,NA
 1688,Richard,Ellis,practitioner,Memorial University,NA,NA,NA
 1689,Sue,Fahey,practitioner,Memorial University,NA,NA,NA
-169,Rafael Rangel,Braga,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0002-5181-2901""",NA
+169,Rafael Rangel,Braga,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0002-5181-2901""",NA
 1690,Alison,Farrell,practitioner,Memorial University,"""https://scholar.google.com/citations?hl=en&user=7O1hs0YAAAAJ""","""https://orcid.org/0000-0001-8111-5616""",NA
 1691,Colleen,Field,practitioner,Memorial University,NA,NA,NA
 1692,Mike,Fitzpatrick,practitioner,Memorial University,NA,NA,NA
@@ -776,8 +776,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1697,Patrick,Gamsby,practitioner,Memorial University,"""https://scholar.google.com/citations?hl=en&user=RIzj-tEAAAAJ""","""https://orcid.org/0000-0002-9491-481X""",NA
 1698,Brett,Gillam,practitioner,Memorial University,NA,NA,NA
 1699,Ian,Gillies,practitioner,Memorial University,NA,NA,NA
-17,Joé,Bouchard,practitioner,UniversitÃ© Laval,NA,NA,NA
-170,Sylvie,Brunet,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0003-0932-3941""",NA
+17,Joé,Bouchard,practitioner,Université Laval,NA,NA,NA
+170,Sylvie,Brunet,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0003-0932-3941""",NA
 1700,Janet,Goosney,practitioner,Memorial University,NA,"""https://orcid.org/0000-0002-7145-6019""",NA
 1701,Devon,Griffin,practitioner,Memorial University,NA,NA,NA
 1702,Keith,Hannaford,practitioner,Memorial University,NA,NA,NA
@@ -788,7 +788,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1707,Nicole,Holloway,practitioner,Memorial University,NA,NA,NA
 1708,Krista,Howell,practitioner,Memorial University,NA,NA,NA
 1709,Paul,Ivany,practitioner,Memorial University,NA,NA,NA
-171,Sylvie,Cantin,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+171,Sylvie,Cantin,practitioner,Université de Montréal,NA,NA,NA
 1710,Jae,Jin,practitioner,Memorial University,NA,NA,NA
 1711,Matthew,Keels,practitioner,Memorial University,NA,NA,NA
 1712,Diane,Keeping,practitioner,Memorial University,NA,NA,NA
@@ -799,7 +799,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1717,Catherine,Lawton,practitioner,Memorial University,NA,"""https://orcid.org/0000-0003-3758-3281""",NA
 1718,Ryan,Lewis,practitioner,Memorial University,NA,NA,NA
 1719,Beth,Maddigan,practitioner,Memorial University,"""https://scholar.google.com/citations?hl=en&user=zZMNZHcAAAAJ""","""https://orcid.org/0000-0002-1329-6918""",NA
-172,Julie,Cardinal,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0001-6876-3491""",NA
+172,Julie,Cardinal,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0001-6876-3491""",NA
 1720,Deanna,Matthews,practitioner,Memorial University,NA,"""https://orcid.org/0000-0003-4542-9292""",NA
 1721,Louise,Mcgillis,practitioner,Memorial University,NA,"""https://orcid.org/0000-0002-1643-8678""",NA
 1722,Meghan,Mckibbon,practitioner,Memorial University,NA,NA,NA
@@ -810,7 +810,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1727,Martin,Nolan,practitioner,Memorial University,NA,NA,NA
 1728,Donna,Norman,practitioner,Memorial University,NA,NA,NA
 1729,Paulette,Noseworthy,practitioner,Memorial University,NA,NA,NA
-173,Nicole,Chamberland,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+173,Nicole,Chamberland,practitioner,Université de Montréal,NA,NA,NA
 1731,Anita,Park,practitioner,Memorial University,NA,NA,NA
 1732,Stacey,Penney,practitioner,Memorial University,NA,NA,NA
 1733,Carmelita,Power,practitioner,Memorial University,NA,NA,NA
@@ -820,7 +820,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1737,Brian,Quinn,practitioner,Memorial University,NA,NA,NA
 1738,Kathleen,Roberts,practitioner,Memorial University,NA,NA,NA
 1739,Wendy,Rodgers,practitioner,Memorial University,NA,NA,NA
-174,Michel,Champagne,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+174,Michel,Champagne,practitioner,Université de Montréal,NA,NA,NA
 1740,Kristen,Romme,practitioner,Memorial University,"""https://scholar.google.com/citations?hl=en&user=DkMoNuMAAAAJ""","""https://orcid.org/0000-0003-1859-1913""",NA
 1741,Crystal,Rose,practitioner,Memorial University,NA,"""https://orcid.org/0000-0003-4102-1011""",NA
 1742,Kathryn,Rose,practitioner,Memorial University,NA,NA,NA
@@ -831,7 +831,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1747,Karen,Stapleton,practitioner,Memorial University,NA,NA,NA
 1748,Lesley,Squires,practitioner,Memorial University,NA,NA,NA
 1749,Monika,Stephenson,practitioner,Memorial University,NA,NA,NA
-175,Raymonde,Champagne,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+175,Raymonde,Champagne,practitioner,Université de Montréal,NA,NA,NA
 1750,Catherine,Stone,practitioner,Memorial University,NA,NA,NA
 1751,Michelle,Swab,practitioner,Memorial University,"""https://scholar.google.com/citations?hl=en&user=kzY2tf4AAAAJ""","""https://orcid.org/0000-0001-6504-4299""",NA
 1753,Sharon,Thompson,practitioner,Memorial University,NA,NA,NA
@@ -841,7 +841,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1757,Carl,White,practitioner,Memorial University,NA,NA,NA
 1758,Linda,White,practitioner,Memorial University,NA,NA,NA
 1759,Louise,White,practitioner,Memorial University,NA,NA,"https://openalex.org/A2152610350, https://openalex.org/A2942627383, https://openalex.org/A2619736584, https://openalex.org/A2102595308, https://openalex.org/A3145441091, https://openalex.org/A2118486143, https://openalex.org/A2614410824"
-176,Hortense,Chopart,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+176,Hortense,Chopart,practitioner,Université de Montréal,NA,NA,NA
 1760,Kim,Whitfield,practitioner,Memorial University,NA,NA,NA
 1761,Stephanie,Williams,practitioner,Memorial University,NA,NA,NA
 1762,Alexandra,Williamson,practitioner,Memorial University,NA,NA,NA
@@ -851,7 +851,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1766,Krystyna,Nowak,practitioner,Capilano University,NA,NA,NA
 1768,Kim,Minkus,practitioner,Capilano University,NA,NA,NA
 1769,Mary,Sim,practitioner,Capilano University,NA,NA,NA
-177,Laurence,Charest,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+177,Laurence,Charest,practitioner,Université de Montréal,NA,NA,NA
 1770,Sabrina,Wong,practitioner,Capilano University,NA,NA,NA
 1771,Jocelyn,Hallman,practitioner,Capilano University,NA,NA,NA
 1772,Ashley,Manhas,practitioner,Capilano University,NA,NA,NA
@@ -862,7 +862,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1777,Caitlin,Keenan,practitioner,Royal Roads University,"""https://scholar.google.com/citations?hl=en&user=c3YcMSgAAAAJ""","""https://orcid.org/0000-0002-6085-5110""",NA
 1778,Cassandra,Larose,practitioner,Royal Roads University,NA,NA,NA
 1779,Norman,Macleod,practitioner,Royal Roads University,NA,NA,NA
-178,Natalie,Clairoux,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=V3li1IQAAAAJ""","""https://orcid.org/0000-0002-6720-7415""",NA
+178,Natalie,Clairoux,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=V3li1IQAAAAJ""","""https://orcid.org/0000-0002-6720-7415""",NA
 1780,Rob,Mcleod,practitioner,Royal Roads University,NA,NA,NA
 1781,Will,Meredith,practitioner,Royal Roads University,NA,NA,NA
 1782,Jenny,Seeman,practitioner,Royal Roads University,NA,NA,NA
@@ -873,7 +873,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1787,Joey,Da Costa,practitioner,Thompson River University,NA,NA,NA
 1788,Laura,Davies,practitioner,Thompson River University,NA,NA,NA
 1789,Brenda,Eshelby,practitioner,Thompson River University,NA,NA,NA
-179,Monique,Clar,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=m0zzi2sAAAAJ""","""https://orcid.org/0000-0001-8898-4478""",NA
+179,Monique,Clar,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=m0zzi2sAAAAJ""","""https://orcid.org/0000-0001-8898-4478""",NA
 1790,Tania,Gottschalk,practitioner,Thompson River University,"""https://scholar.google.com/citations?user=a91GTDIAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-1052-4062""",NA
 1791,Mary,Hemmings,practitioner,Thompson River University,"""https://scholar.google.com/citations?user=YDHNrrsAAAAJ&hl=en&oi=ao""",NA,NA
 1792,Kathleen,Johnston,practitioner,Thompson River University,NA,NA,NA
@@ -884,8 +884,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1797,Ben,Mitchell,practitioner,Thompson River University,NA,NA,NA
 1798,Shane,Neifer,practitioner,Thompson River University,NA,NA,NA
 1799,Amy,Mclay Patterson,practitioner,Thompson River University,NA,"""https://orcid.org/0000-0002-0016-6356""",NA
-18,Anne-Marie,Duchesneau,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0001-8073-5995""",NA
-180,Benjamin,Constantineau,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+18,Anne-Marie,Duchesneau,practitioner,Université Laval,NA,"""https://orcid.org/0000-0001-8073-5995""",NA
+180,Benjamin,Constantineau,practitioner,Université de Montréal,NA,NA,NA
 1800,Meg,Polier,practitioner,Thompson River University,NA,NA,NA
 1801,Michael,Purcell,practitioner,Thompson River University,NA,NA,NA
 1802,Elizabeth,Rennie,practitioner,Thompson River University,NA,NA,NA
@@ -896,7 +896,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1807,Leah,Stubbings,practitioner,Thompson River University,NA,NA,NA
 1808,Melissa,Svendsen,practitioner,Thompson River University,NA,NA,NA
 1809,Michelle,Terriss,practitioner,Thompson River University,NA,NA,NA
-181,Marc-Olivier,Croteau,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+181,Marc-Olivier,Croteau,practitioner,Université de Montréal,NA,NA,NA
 1810,Tasha,Tremblay,practitioner,Thompson River University,NA,NA,NA
 1811,Julia,Wells,practitioner,Thompson River University,NA,NA,NA
 1812,Lara,Wright,practitioner,Vancouver Island University,NA,NA,NA
@@ -907,7 +907,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1817,Luke,Mcleod,practitioner,Vancouver Island University,NA,NA,NA
 1818,Kathleen,Reed,practitioner,Vancouver Island University,"""https://scholar.google.ca/citations?user=gjbaeeAAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-9972-9322""",NA
 1819,Lori,Walter,practitioner,Vancouver Island University,"""https://scholar.google.ca/citations?user=x8yZS0wAAAAJ&hl=en&oi=ao""",NA,"https://openalex.org/A3044297218, https://openalex.org/A3044297218, https://openalex.org/A2514414451, https://openalex.org/A3044297218"
-182,Sonia,Debonville,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+182,Sonia,Debonville,practitioner,Université de Montréal,NA,NA,NA
 1820,Vic,Froese,practitioner,Canadian Mennonite University,NA,NA,NA
 1821,Wes,Bergen,practitioner,Canadian Mennonite University,NA,NA,NA
 1822,Tamara,Dyck,practitioner,Canadian Mennonite University,NA,NA,NA
@@ -918,7 +918,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1827,Michael,Dudley,practitioner,University of Winnipeg,NA,NA,NA
 1828,Brianne,Selman,practitioner,University of Winnipeg,"""https://scholar.google.ca/citations?user=h6e7OB8AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-1768-2250""",NA
 1829,Sarah,Giesbrecht,practitioner,University of Winnipeg,NA,NA,NA
-183,Indiana,Delsart,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+183,Indiana,Delsart,practitioner,Université de Montréal,NA,NA,NA
 1830,Emma,Hill Kepron,practitioner,University of Winnipeg,NA,"""https://orcid.org/0000-0002-0128-6683""",NA
 1831,Christine,Hoeppner,practitioner,University of Winnipeg,NA,NA,NA
 1832,Lisa,Bell,practitioner,University of Winnipeg,NA,NA,NA
@@ -929,7 +929,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1837,Katie,Kilgour,practitioner,University of Winnipeg,NA,NA,NA
 1838,Lauren,Mcgraw,practitioner,University of Winnipeg,NA,NA,NA
 1839,Joshua J,Herter,practitioner,University of Winnipeg,NA,"""https://orcid.org/0000-0001-7060-6380""",NA
-184,Nathalie,Denis,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+184,Nathalie,Denis,practitioner,Université de Montréal,NA,NA,NA
 1840,Daniel,Beaulieu,practitioner,Universite Saint Boniface,NA,NA,"https://openalex.org/A2109872516, https://openalex.org/A2109872516, https://openalex.org/A2314022632, https://openalex.org/A2888166687"
 1841,Gabrielle,Chaput,practitioner,Universite Saint Boniface,NA,NA,NA
 1842,Chloe,Gagnon,practitioner,Universite Saint Boniface,NA,NA,NA
@@ -940,7 +940,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1847,Samia,Nawreen,practitioner,Luther College,NA,NA,NA
 1848,Cheryl,Aldous,practitioner,University of Regina,NA,NA,NA
 1849,Megan,Ashcroft,practitioner,University of Regina,NA,NA,NA
-185,Philippe,Deschamps,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+185,Philippe,Deschamps,practitioner,Université de Montréal,NA,NA,NA
 1850,Angela,Asherbranner,practitioner,University of Regina,NA,NA,NA
 1851,Jason,Cawood,practitioner,University of Regina,NA,NA,NA
 1852,Prana,Chernova,practitioner,University of Regina,NA,NA,NA
@@ -951,7 +951,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1857,Rene,Gallardo,practitioner,University of Regina,NA,NA,NA
 1858,Jennifer,Hall,practitioner,University of Regina,NA,NA,NA
 1859,Doris,Hein,practitioner,University of Regina,NA,NA,NA
-186,Dominic,Desaulniers,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+186,Dominic,Desaulniers,practitioner,Université de Montréal,NA,NA,NA
 1860,Donald,Herperger,practitioner,University of Regina,NA,NA,NA
 1861,Lynne,Herrem,practitioner,University of Regina,NA,NA,NA
 1862,James,Holobetz,practitioner,University of Regina,NA,NA,NA
@@ -962,7 +962,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1867,Jeannette,Luttmer,practitioner,University of Regina,NA,NA,NA
 1868,Lorraine,Lylyk,practitioner,University of Regina,NA,NA,NA
 1869,Kieu,Ma,practitioner,University of Regina,NA,NA,NA
-187,Patrice,Dupont,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=pOGUT8kAAAAJ""","""https://orcid.org/0000-0003-3634-6858""",NA
+187,Patrice,Dupont,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=pOGUT8kAAAAJ""","""https://orcid.org/0000-0003-3634-6858""",NA
 1870,Dean,Mulhall,practitioner,University of Regina,NA,NA,NA
 1871,Lon,Niedermayer,practitioner,University of Regina,NA,NA,NA
 1872,Gosia,Nowicki,practitioner,University of Regina,NA,NA,NA
@@ -973,7 +973,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1877,Jim,Tait,practitioner,University of Regina,NA,NA,NA
 1878,Corina,Van Der Berg,practitioner,University of Regina,NA,NA,NA
 1879,Lisa,Wanner,practitioner,University of Regina,NA,NA,NA
-188,Jean-François,Durnin,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+188,Jean-François,Durnin,practitioner,Université de Montréal,NA,NA,NA
 1880,Irene,Zadnik,practitioner,University of Regina,NA,NA,NA
 1881,Patricia,Boleen,practitioner,Yukon University,NA,NA,NA
 1882,Nora,Hehemann,practitioner,Yukon University,NA,NA,NA
@@ -983,7 +983,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1887,Brian,Jackson,practitioner,Mount Royal University,NA,NA,NA
 1888,Cari,Merkley,practitioner,Mount Royal University,NA,"""https://orcid.org/0000-0003-2606-2659""",NA
 1889,Chris,Thomas,practitioner,Mount Royal University,NA,NA,NA
-189,Sylvie,Fontaine,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+189,Sylvie,Fontaine,practitioner,Université de Montréal,NA,NA,NA
 1890,Erik,Christiansen,practitioner,Mount Royal University,"""https://scholar.google.com/citations?hl=en&user=MhrimEgAAAAJ""","""https://orcid.org/0000-0001-5785-3491""",NA
 1891,Francine,May,practitioner,Mount Royal University,"""https://scholar.google.com/citations?hl=en&user=gfxYR4QAAAAJ""","""https://orcid.org/0000-0003-0160-1564""",NA
 1892,Genista,Kippin,practitioner,Mount Royal University,NA,NA,NA
@@ -994,8 +994,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1897,Katharine,Barrette,practitioner,Mount Royal University,NA,NA,NA
 1898,Kerry,Harmer,practitioner,Mount Royal University,NA,"""https://orcid.org/0000-0003-2483-5785""",NA
 1899,Madalaine,Vanderwerff,practitioner,Mount Royal University,"""https://scholar.google.com/citations?hl=en&user=u2u4K_kAAAAJ""",NA,NA
-19,Mélissa,Gravel,practitioner,UniversitÃ© Laval,NA,NA,NA
-190,Catherine,Fortier,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=YdiqC5cAAAAJ""","""https://orcid.org/0000-0002-6783-9930""",NA
+19,Mélissa,Gravel,practitioner,Université Laval,NA,NA,NA
+190,Catherine,Fortier,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=YdiqC5cAAAAJ""","""https://orcid.org/0000-0002-6783-9930""",NA
 1900,Pearl,Herscovitch,practitioner,Mount Royal University,"""https://scholar.google.com/citations?hl=en&user=WJAw3RUAAAAJ""","""https://orcid.org/0000-0002-0342-1818""",NA
 1901,Peter,Houston,practitioner,Mount Royal University,NA,NA,NA
 1902,Richard,Hayman,practitioner,Mount Royal University,"""https://scholar.google.com/citations?hl=en&user=FSonoV4AAAAJ""","""https://orcid.org/0000-0002-4957-705X""",NA
@@ -1006,7 +1006,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1907,Justine,Gill,practitioner,St. Mary's University,NA,NA,NA
 1908,Sarah,Adams,practitioner,University of Calgary,NA,NA,NA
 1909,Rob,Alexander,practitioner,University of Calgary,NA,NA,NA
-191,Nino,Gabrielli,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=WNuC3-cAAAAJ""","""https://orcid.org/0000-0002-9934-9186""",NA
+191,Nino,Gabrielli,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=WNuC3-cAAAAJ""","""https://orcid.org/0000-0002-9934-9186""",NA
 1910,Alexandra,Alisauskas,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=b70VwAEAAAAJ""","""https://orcid.org/0000-0003-0624-0497""",NA
 1911,Chelsea,Ambler,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-2378-7657""",NA
 1912,Dick,Averns,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0001-8592-3506""",NA
@@ -1017,7 +1017,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1917,Susan,Beatty,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=jUTSQpAAAAAJ""",NA,NA
 1918,Emilee,Baws,practitioner,University of Calgary,NA,NA,NA
 1919,Ghislaine,Bilton,practitioner,University of Calgary,NA,NA,NA
-192,Cynthia,Gagné,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=spjLTbsAAAAJ""","""https://orcid.org/0000-0003-0251-3136""",NA
+192,Cynthia,Gagné,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=spjLTbsAAAAJ""","""https://orcid.org/0000-0003-0251-3136""",NA
 1920,Matthew,Black,practitioner,University of Calgary,NA,NA,NA
 1921,John,Brosz,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=GhwqRdUAAAAJ""","""https://orcid.org/0000-0002-4123-9240""",NA
 1922,Dave,Brown,practitioner,University of Calgary,NA,NA,NA
@@ -1028,7 +1028,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1927,Taryn,Canete,practitioner,University of Calgary,NA,NA,NA
 1928,Merran,Carr-Wiggin,practitioner,University of Calgary,NA,NA,NA
 1929,Stephen,Cater,practitioner,University of Calgary,NA,NA,NA
-193,Stéphanie,Gagnon,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+193,Stéphanie,Gagnon,practitioner,Université de Montréal,NA,NA,NA
 1930,Kate,Cawthorn,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0003-0271-400X""",NA
 1931,Nathan,Chandler,practitioner,University of Calgary,NA,NA,NA
 1932,Corey,Chapman,practitioner,University of Calgary,NA,NA,NA
@@ -1038,7 +1038,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1936,Jerremie,Clyde,practitioner,University of Calgary,NA,NA,NA
 1938,David,Daley,practitioner,University of Calgary,NA,NA,NA
 1939,Anita,Dammer,practitioner,University of Calgary,NA,NA,NA
-194,Geneviève,Gamache-Vaillancourt,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+194,Geneviève,Gamache-Vaillancourt,practitioner,Université de Montréal,NA,NA,NA
 1940,Bill,Desjardine,practitioner,University of Calgary,NA,NA,NA
 1941,Nicole,Dunnewold,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-5775-0705""",NA
 1942,Suzanne,Ell,practitioner,University of Calgary,NA,NA,NA
@@ -1049,7 +1049,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1947,Heather,Ganshorn,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=Ipk4Yr4AAAAJ""","""https://orcid.org/0000-0002-0410-4232""",NA
 1948,Kim,Geraldi,practitioner,University of Calgary,NA,NA,NA
 1949,Rob,Gilbert,practitioner,University of Calgary,NA,NA,NA
-195,Laurie-Anne,Gignac,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+195,Laurie-Anne,Gignac,practitioner,Université de Montréal,NA,NA,NA
 1950,David,Grant,practitioner,University of Calgary,NA,NA,NA
 1951,Dan,Gresl,practitioner,University of Calgary,NA,NA,NA
 1952,Kim,Groome,practitioner,University of Calgary,NA,NA,NA
@@ -1060,7 +1060,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1957,Angie,Hemphill,practitioner,University of Calgary,NA,NA,NA
 1958,Nadine,Hoffman,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-4533-0471""",NA
 1959,Michael,Hoskin,practitioner,University of Calgary,NA,NA,NA
-196,Isabelle,Giguère,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+196,Isabelle,Giguère,practitioner,Université de Montréal,NA,NA,NA
 1960,Maggie,Hunter,practitioner,University of Calgary,NA,NA,NA
 1961,Christie,Hurrell,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=_xo5StoAAAAJ""","""https://orcid.org/0000-0002-6286-5005""",NA
 1962,Laura,Iocca,practitioner,University of Calgary,NA,NA,NA
@@ -1071,7 +1071,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1967,Patricia,Johnson,practitioner,University of Calgary,NA,NA,NA
 1968,David,Jones,practitioner,University of Calgary,NA,NA,NA
 1969,Rhiannon,Jones,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0001-7005-4715""",NA
-197,Lucie,Geoffroy,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+197,Lucie,Geoffroy,practitioner,Université de Montréal,NA,NA,NA
 1970,Danny,Kelly,practitioner,University of Calgary,NA,NA,NA
 1971,Laura,Koltutsky,practitioner,University of Calgary,NA,NA,NA
 1972,Bojan,Kumovic,practitioner,University of Calgary,NA,NA,NA
@@ -1082,7 +1082,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1977,Jennifer,Lee,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-9588-8078""",NA
 1978,Robin,Lee,practitioner,University of Calgary,NA,NA,NA
 1979,Bart,Lenart,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0001-5632-7078""",NA
-198,Marjorie,Gauchier,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+198,Marjorie,Gauchier,practitioner,Université de Montréal,NA,NA,NA
 1980,Christine,Leonard-Cripps,practitioner,University of Calgary,NA,NA,NA
 1981,Carla,Lewis,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0003-4202-576X""",https://openalex.org/A2631545055
 1982,Diane,Lorenzetti,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=qUsHvM8AAAAJ""","""https://orcid.org/0000-0001-8423-3458""",NA
@@ -1093,7 +1093,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1987,Kathy,Mcdonnell,practitioner,University of Calgary,NA,NA,NA
 1988,Christena,Mckillop,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-0340-257X"", ""https://orcid.org/0000-0002-0340-257X""",NA
 1989,Barb,Miller,practitioner,University of Calgary,NA,NA,NA
-199,Myrian,Grondin,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=7XZCWO8AAAAJ""","""https://orcid.org/0000-0002-3236-8155""",NA
+199,Myrian,Grondin,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=7XZCWO8AAAAJ""","""https://orcid.org/0000-0002-3236-8155""",NA
 1990,Leeanne,Morrow,practitioner,University of Calgary,NA,NA,NA
 1991,James,Murphy,practitioner,University of Calgary,NA,NA,NA
 1992,Annie,Murray,practitioner,University of Calgary,NA,NA,NA
@@ -1104,9 +1104,9 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 1997,Peter,Peller,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-1804-0372""",NA
 1998,Paul,Pival,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=_4cOKQkAAAAJ""","""https://orcid.org/0000-0002-1685-0590""",NA
 1999,Sylvia,Polachuk,practitioner,University of Calgary,NA,NA,NA
-2,Frédéric,Bergeron,practitioner,UniversitÃ© Laval,NA,NA,NA
-20,Marie-Denise,Lavoie,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-3060-8063""",NA
-200,Aminata,Keita,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+2,Frédéric,Bergeron,practitioner,Université Laval,NA,NA,NA
+20,Marie-Denise,Lavoie,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-3060-8063""",NA
+200,Aminata,Keita,practitioner,Université de Montréal,NA,NA,NA
 2000,Susan,Powel,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=2lCrlFwAAAAJ""","""https://orcid.org/0000-0001-7948-6434""",NA
 2001,Renee,Raume,practitioner,University of Calgary,NA,NA,NA
 2002,Ingrid,Reiche,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-0462-7412""",NA
@@ -1117,7 +1117,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2007,Christine,Sowiak,practitioner,University of Calgary,NA,NA,NA
 2008,Lynn,Stewart,practitioner,University of Calgary,NA,NA,"https://openalex.org/A2658923213, https://openalex.org/A3107867515"
 2009,Marc,Stoeckle,practitioner,University of Calgary,NA,"""https://orcid.org/0000-0002-9195-2642""",NA
-201,Anne,Hakier,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+201,Anne,Hakier,practitioner,Université de Montréal,NA,NA,NA
 2010,Jayne,Taylor-Gracher,practitioner,University of Calgary,NA,NA,NA
 2011,Christie,Teterenko,practitioner,University of Calgary,NA,NA,NA
 2012,Glenn,Thomson,practitioner,University of Calgary,NA,NA,NA
@@ -1128,7 +1128,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2017,Lisi,Wang,practitioner,University of Calgary,NA,NA,https://openalex.org/A2115243161
 2018,Justine,Wheeler,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=hy7Qs6cAAAAJ""","""https://orcid.org/0000-0003-0121-7538""",NA
 2019,Bruce,White,practitioner,University of Calgary,NA,NA,NA
-202,Alexandra,Houde,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+202,Alexandra,Houde,practitioner,Université de Montréal,NA,NA,NA
 2020,Jennifer,Willard,practitioner,University of Calgary,NA,NA,NA
 2021,Kathy,Wise,practitioner,University of Calgary,"""https://scholar.google.com/citations?hl=en&user=yIYCVY4AAAAJ""",NA,NA
 2022,Bonnie,Woelk,practitioner,University of Calgary,NA,NA,NA
@@ -1137,43 +1137,43 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2025,Lourdes,Yturzaeta,practitioner,University of Calgary,NA,NA,NA
 2026,Donna,Zambory,practitioner,University of Calgary,NA,NA,NA
 2027,Judy,Zhao,practitioner,University of Calgary,NA,NA,NA
-2028,Clément,Arsenault,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=1fPVWZEAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-8404-0939""",NA
-2029,Guillaume,Boutard,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0001-7108-1838""",NA
-203,Anne-Marie,Lalonde,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2030,Lyne,Da Sylva,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0003-2530-1048""",NA
-2031,Lubna,Daraz,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=zdFWThkAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-4502-835X""",NA
-2032,Nadine,Desrochers,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2033,Christine,Dufour,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=7jqCwxcAAAAJ&hl=en&oi=ao""",NA,NA
-2034,Dominic,Forest,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2035,Audrey,Laplante,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=FsEL2EkAAAAJ&hl=en&oi=ao""",NA,NA
-2036,Larivière,Larivière,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2037,Yvon,Lemay,academic,UniversitÃ© de MontrÃ©al,NA,NA,"https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A2259075874, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1527556953, https://openalex.org/A2618454502, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A2721598262, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A2259075874, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442"
-2038,Éric,Leroux,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0003-2342-7026""","https://openalex.org/A2703199574, https://openalex.org/A2703199574, https://openalex.org/A2916457640, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A2901653454, https://openalex.org/A2916928215, https://openalex.org/A3189656792, https://openalex.org/A1952708964, https://openalex.org/A2652558414, https://openalex.org/A1952708964, https://openalex.org/A2966729751, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A2998867893, https://openalex.org/A1952708964, https://openalex.org/A2423484438, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A2972234020, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A3207742829, https://openalex.org/A1952708964, https://openalex.org/A2646264656, https://openalex.org/A2703199574, https://openalex.org/A2703199574, https://openalex.org/A3207742829, https://openalex.org/A1952708964, https://openalex.org/A2965090277, https://openalex.org/A1952708964"
-2039,Marie D.,Martel,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0003-3162-5794""",NA
-204,Tara,Landry,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=IqaGPs8AAAAJ""","""https://orcid.org/0000-0003-1930-9529""",NA
-2040,Sabine,Mas,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0002-0657-9987""",NA
-2041,Dominique,Maurel,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0003-2227-5091""",NA
-2042,Jean-Sébastien,Sauvé,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=h38NCDcAAAAJ&hl=en&oi=ao""",NA,"https://openalex.org/A2578015083, https://openalex.org/A2139895625, https://openalex.org/A2139895625, https://openalex.org/A2139895625, https://openalex.org/A2139895625, https://openalex.org/A2715156599"
-2043,Louise,Gagnon-Arguin,academic,UniversitÃ© de MontrÃ©al,NA,NA,"https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2562419071, https://openalex.org/A3096235287, https://openalex.org/A2619752181, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2790184870, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2740858675, https://openalex.org/A2689950353, https://openalex.org/A2569358167, https://openalex.org/A2716721753, https://openalex.org/A3098110431, https://openalex.org/A2569358167, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2254575209, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2569358167"
-2044,Marcel,Lajeunesse,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2045,Yves,Marcoux,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=fgL_wJ8AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-7416-1905""",NA
-2046,Stéphanie,Courchesne,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2047,Aline,Crédeville,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2048,Elsa,Drevon,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2049,Cécile,Gaiffe,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-205,Stéphanie,Larivière-Roberge,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2050,Geneviève,Gareau,academic,UniversitÃ© de MontrÃ©al,NA,NA,"https://openalex.org/A2996334618, https://openalex.org/A3037902350"
-2051,Anaïs,Landeau,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2052,Asma,Minyaoui,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0002-6873-1411""",NA
-2053,Claire,Nigay,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0003-0514-9798""",NA
-2054,Diane Marie,Plante,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2055,Joanne,Plante,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2056,Shahrazad,Rahme,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2057,Marielle,St-Germain,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=fQujAXMAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-7426-1690""",NA
-2058,Diana,Walton,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2059,Annaëlle,Winand,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=lp5s24sAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-7323-931X""",NA
-206,Tommy,Lavallée,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2060,Marc-André,Simard,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=52DVDP8AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-3795-0053""",NA
+2028,Clément,Arsenault,academic,Université de Montréal,"""https://scholar.google.com/citations?user=1fPVWZEAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-8404-0939""",NA
+2029,Guillaume,Boutard,academic,Université de Montréal,NA,"""https://orcid.org/0000-0001-7108-1838""",NA
+203,Anne-Marie,Lalonde,practitioner,Université de Montréal,NA,NA,NA
+2030,Lyne,Da Sylva,academic,Université de Montréal,NA,"""https://orcid.org/0000-0003-2530-1048""",NA
+2031,Lubna,Daraz,academic,Université de Montréal,"""https://scholar.google.com/citations?user=zdFWThkAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-4502-835X""",NA
+2032,Nadine,Desrochers,academic,Université de Montréal,NA,NA,NA
+2033,Christine,Dufour,academic,Université de Montréal,"""https://scholar.google.com/citations?user=7jqCwxcAAAAJ&hl=en&oi=ao""",NA,NA
+2034,Dominic,Forest,academic,Université de Montréal,NA,NA,NA
+2035,Audrey,Laplante,academic,Université de Montréal,"""https://scholar.google.com/citations?user=FsEL2EkAAAAJ&hl=en&oi=ao""",NA,NA
+2036,Larivière,Larivière,academic,Université de Montréal,NA,NA,NA
+2037,Yvon,Lemay,academic,Université de Montréal,NA,NA,"https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A2259075874, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1527556953, https://openalex.org/A2618454502, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A2721598262, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A2259075874, https://openalex.org/A1992806442, https://openalex.org/A1992806442, https://openalex.org/A1992806442"
+2038,Éric,Leroux,academic,Université de Montréal,NA,"""https://orcid.org/0000-0003-2342-7026""","https://openalex.org/A2703199574, https://openalex.org/A2703199574, https://openalex.org/A2916457640, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A2901653454, https://openalex.org/A2916928215, https://openalex.org/A3189656792, https://openalex.org/A1952708964, https://openalex.org/A2652558414, https://openalex.org/A1952708964, https://openalex.org/A2966729751, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A2998867893, https://openalex.org/A1952708964, https://openalex.org/A2423484438, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A2972234020, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A1952708964, https://openalex.org/A3207742829, https://openalex.org/A1952708964, https://openalex.org/A2646264656, https://openalex.org/A2703199574, https://openalex.org/A2703199574, https://openalex.org/A3207742829, https://openalex.org/A1952708964, https://openalex.org/A2965090277, https://openalex.org/A1952708964"
+2039,Marie D.,Martel,academic,Université de Montréal,NA,"""https://orcid.org/0000-0003-3162-5794""",NA
+204,Tara,Landry,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=IqaGPs8AAAAJ""","""https://orcid.org/0000-0003-1930-9529""",NA
+2040,Sabine,Mas,academic,Université de Montréal,NA,"""https://orcid.org/0000-0002-0657-9987""",NA
+2041,Dominique,Maurel,academic,Université de Montréal,NA,"""https://orcid.org/0000-0003-2227-5091""",NA
+2042,Jean-Sébastien,Sauvé,academic,Université de Montréal,"""https://scholar.google.com/citations?user=h38NCDcAAAAJ&hl=en&oi=ao""",NA,"https://openalex.org/A2578015083, https://openalex.org/A2139895625, https://openalex.org/A2139895625, https://openalex.org/A2139895625, https://openalex.org/A2139895625, https://openalex.org/A2715156599"
+2043,Louise,Gagnon-Arguin,academic,Université de Montréal,NA,NA,"https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2562419071, https://openalex.org/A3096235287, https://openalex.org/A2619752181, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2790184870, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2740858675, https://openalex.org/A2689950353, https://openalex.org/A2569358167, https://openalex.org/A2716721753, https://openalex.org/A3098110431, https://openalex.org/A2569358167, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2254575209, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2569358167, https://openalex.org/A2562419071, https://openalex.org/A2562419071, https://openalex.org/A2569358167"
+2044,Marcel,Lajeunesse,academic,Université de Montréal,NA,NA,NA
+2045,Yves,Marcoux,academic,Université de Montréal,"""https://scholar.google.com/citations?user=fgL_wJ8AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-7416-1905""",NA
+2046,Stéphanie,Courchesne,academic,Université de Montréal,NA,NA,NA
+2047,Aline,Crédeville,academic,Université de Montréal,NA,NA,NA
+2048,Elsa,Drevon,academic,Université de Montréal,NA,NA,NA
+2049,Cécile,Gaiffe,academic,Université de Montréal,NA,NA,NA
+205,Stéphanie,Larivière-Roberge,practitioner,Université de Montréal,NA,NA,NA
+2050,Geneviève,Gareau,academic,Université de Montréal,NA,NA,"https://openalex.org/A2996334618, https://openalex.org/A3037902350"
+2051,Anaïs,Landeau,academic,Université de Montréal,NA,NA,NA
+2052,Asma,Minyaoui,academic,Université de Montréal,NA,"""https://orcid.org/0000-0002-6873-1411""",NA
+2053,Claire,Nigay,academic,Université de Montréal,NA,"""https://orcid.org/0000-0003-0514-9798""",NA
+2054,Diane Marie,Plante,academic,Université de Montréal,NA,NA,NA
+2055,Joanne,Plante,academic,Université de Montréal,NA,NA,NA
+2056,Shahrazad,Rahme,academic,Université de Montréal,NA,NA,NA
+2057,Marielle,St-Germain,academic,Université de Montréal,"""https://scholar.google.com/citations?user=fQujAXMAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-7426-1690""",NA
+2058,Diana,Walton,academic,Université de Montréal,NA,NA,NA
+2059,Annaëlle,Winand,academic,Université de Montréal,"""https://scholar.google.com/citations?user=lp5s24sAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-7323-931X""",NA
+206,Tommy,Lavallée,practitioner,Université de Montréal,NA,NA,NA
+2060,Marc-André,Simard,academic,Université de Montréal,"""https://scholar.google.com/citations?user=52DVDP8AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-3795-0053""",NA
 2061,Muhammad,Abdul-Mageed,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=SOjQhl8AAAAJ""","""https://orcid.org/0000-0002-8590-2040""",NA
 2062,Richard,Arias-Hernandez,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=P_nbaVAAAAAJ""","""https://orcid.org/0000-0003-2939-1116""",NA
 2063,Julia,Bullard,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=QQ7lOvAAAAAJ""","""https://orcid.org/0000-0001-7989-7305""",NA
@@ -1183,7 +1183,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2067,Rick,Kopak,academic,University of British Columbia,NA,NA,NA
 2068,Erik,Kwakkel,academic,University of British Columbia,NA,"""https://orcid.org/0000-0003-1258-1685""",NA
 2069,Victoria L.,Lemieux,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=D161c1IAAAAJ""","""https://orcid.org/0000-0003-1339-6289""",NA
-207,Marie-Josée,Leboeuf,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+207,Marie-Josée,Leboeuf,practitioner,Université de Montréal,NA,NA,NA
 2070,Tricia,Logan,academic,University of British Columbia,NA,NA,NA
 2071,Eric,Meyers,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=2vKYaqcAAAAJ""",NA,NA
 2072,Lisa,Nathan,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=q-2bgTcAAAAJ""","""https://orcid.org/0000-0001-7125-3951""",NA
@@ -1193,7 +1193,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2077,Rodrigo,Santos,academic,University of British Columbia,NA,NA,NA
 2078,Zachary,Zabawa,academic,University of British Columbia,NA,NA,NA
 2079,Chiyu,Zhang,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=oEGK73YAAAAJ""",NA,NA
-208,Geneviève,Lemarier,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+208,Geneviève,Lemarier,practitioner,Université de Montréal,NA,NA,NA
 2080,Ted,Lee,academic,University of British Columbia,NA,NA,NA
 2081,Danielle,Batista,academic,University of British Columbia,NA,NA,NA
 2082,Amelia W.,Cole,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=WXMmLg8AAAAJ""","""https://orcid.org/0000-0002-8017-0602""",NA
@@ -1204,7 +1204,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2087,Andrea,Hoff,academic,University of British Columbia,NA,"""https://orcid.org/0000-0001-6592-7999""",NA
 2088,Michelle,Kaczmarek,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=3aXPmFsAAAAJ""","""https://orcid.org/0000-0002-4048-7955""",NA
 2089,Millicent,Mabi,academic,University of British Columbia,NA,"""https://orcid.org/0000-0003-1674-2589""",NA
-209,Chantal,Lemay,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+209,Chantal,Lemay,practitioner,Université de Montréal,NA,NA,NA
 2090,Alamir,Novin,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=7kKfv-8AAAAJ""","""https://orcid.org/0000-0002-8240-0360""",NA
 2091,Drew,Paulin,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=O5wEW_UAAAAJ""",NA,NA
 2092,Nathaniel,Payne,academic,University of British Columbia,NA,NA,NA
@@ -1215,8 +1215,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2097,Rohan,Alexander,academic,University of Toronto,"""https://scholar.google.com/citations?user=RAtv8CAAAAAJ&hl=en""",NA,NA
 2098,Periklis,Andritsos,academic,University of Toronto,"""https://scholar.google.ca/citations?user=4gP-dEIAAAAJ&hl=en""",NA,NA
 2099,Christoph,Becker,academic,University of Toronto,"""https://scholar.google.ca/citations?user=sYZlySIAAAAJ""","""http://orcid.org/0000-0002-8364-0593""",NA
-21,Emmanuelle,Paquette-Raynard,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-3191-7618""",NA
-210,Bernard,Lemieux,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+21,Emmanuelle,Paquette-Raynard,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-3191-7618""",NA
+210,Bernard,Lemieux,practitioner,Université de Montréal,NA,NA,NA
 2100,Jeffrey,Boase,academic,University of Toronto,"""https://scholar.google.ca/citations?user=Cu2qpUoAAAAJ&hl=en""",NA,NA
 2101,Matthew,Brower,academic,University of Toronto,NA,NA,NA
 2102,Kenzie,Burchell,academic,University of Toronto,"""https://scholar.google.ca/citations?user=vD84TmUAAAAJ&hl=en""",NA,NA
@@ -1227,7 +1227,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2107,Chun Wei,Choo,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=7rpD9k4AAAAJ""",NA,NA
 2108,Andrew,Clement,academic,University of Toronto,NA,NA,NA
 2109,Nicole,Cohen,academic,University of Toronto,NA,NA,NA
-211,Mariane,Léonard,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+211,Mariane,Léonard,practitioner,Université de Montréal,NA,NA,NA
 2110,T.l.,Cowan,academic,University of Toronto,NA,NA,NA
 2111,Negin,Dahya,academic,University of Toronto,"""https://scholar.google.com/citations?user=OjOtTjIAAAAJ&hl=en""",NA,NA
 2112,Costis,Dallas,academic,University of Toronto,"""https://scholar.google.gr/citations?user=xcTluBMAAAAJ&hl=en""",NA,NA
@@ -1238,7 +1238,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2117,Colin,Furness,academic,University of Toronto,"""https://scholar.google.com/citations?user=-lf64qQAAAAJ&hl=en"", ""https://scholar.google.com/citations?hl=en&user=-lf64qQAAAAJ""","""https://orcid.org/0000-0002-4780-1257""",NA
 2118,Alan,Galey,academic,University of Toronto,NA,NA,NA
 2119,Sara,Grimes,academic,University of Toronto,NA,NA,NA
-212,Pierre-Étienne,Lépine,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+212,Pierre-Étienne,Lépine,practitioner,Université de Montréal,NA,NA,NA
 2120,Jenna,Hartel,academic,University of Toronto,NA,NA,NA
 2121,Lynne C.,Howarth,academic,University of Toronto,"""https://scholar.google.com/citations?user=LudO2sQAAAAJ&hl=en""",NA,NA
 2122,Tero,Karppi,academic,University of Toronto,NA,NA,NA
@@ -1249,7 +1249,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2127,Heather,Macneil,academic,University of Toronto,NA,NA,NA
 2128,Rhonda,Mcewen,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=ds2Z3GEAAAAJ""",NA,NA
 2129,Irina,Mihalache,academic,University of Toronto,"""https://scholar.google.ca/citations?user=mmSH7ucAAAAJ&hl=en""",NA,NA
-213,Danny,Létourneau,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+213,Danny,Létourneau,practitioner,Université de Montréal,NA,NA,NA
 2130,Cosmin,Munteanu,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=sblCo1IAAAAJ""",NA,NA
 2131,David,Nieborg,academic,University of Toronto,"""https://scholar.google.com/citations?user=3B4aOYQAAAAJ&hl=en""",NA,NA
 2132,Jeremy,Packer,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=gVdMuxUAAAAJ""",NA,NA
@@ -1260,7 +1260,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2137,Seamus,Ross,academic,University of Toronto,"""https://scholar.google.ca/citations?user=n1R2NMIAAAAJ&hl=en""",NA,NA
 2138,Dan,Ryan,academic,University of Toronto,"""https://scholar.google.com/citations?user=8KHQRlgAAAAJ&hl=en""",NA,NA
 2139,Arik,Senderovich,academic,University of Toronto,"""https://scholar.google.com/citations?user=89TT1cgAAAAJ&hl=th""",NA,NA
-214,Pascal,Martinolli,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=gXtvDv8AAAAJ""","""https://orcid.org/0000-0003-0122-5300""",NA
+214,Pascal,Martinolli,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=gXtvDv8AAAAJ""","""https://orcid.org/0000-0003-0122-5300""",NA
 2140,Aviv,Shachak,academic,University of Toronto,"""https://scholar.google.ca/citations?user=JWifgNYAAAAJ""",NA,NA
 2141,Leslie,Regan Shade,academic,University of Toronto,NA,NA,NA
 2142,Sarah,Sharma,academic,University of Toronto,NA,NA,NA
@@ -1271,7 +1271,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2147,Karen,Suurtamm,academic,University of Toronto,"""https://scholar.google.com/citations?user=B4kp_3MAAAAJ&hl=en""",NA,NA
 2148,Tony,Tang,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=RG1EQowAAAAJ""",NA,NA
 2149,Jia,Xue,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=B-b0_4gAAAAJ""",NA,NA
-215,Gabrielle,Mathieu-Dupuis,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+215,Gabrielle,Mathieu-Dupuis,practitioner,Université de Montréal,NA,NA,NA
 2150,Eric,Yu,academic,University of Toronto,"""https://scholar.google.ca/citations?user=c36OREEAAAAJ&hl=en""",NA,NA
 2151,Sherry S.,Yu,academic,University of Toronto,NA,NA,NA
 2152,Katherine,Mackinnon,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=zKGIFGEAAAAJ""",NA,NA
@@ -1282,7 +1282,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2157,Karen,Dewart Mcewen,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=572owHQAAAAJ&view_op=list_works&gmla=AJsN-F6drwbI9VzOFAI_LIIFeO9lAZVxAdDX_Fg6Z_MvMVTCdUS0Z0kVAA8sqfF_ubfNbcP6mMa5NFZyaSIpN0BlJ28gi4e7RHymYb19ROUkSMU_aZ2LoFU""",NA,NA
 2158,Robert Blair,Frost,academic,University of Toronto,NA,NA,NA
 2159,Réka Patrícia,Gál,academic,University of Toronto,NA,NA,NA
-216,Ginette-Denyse,Melançon-Bolduc,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+216,Ginette-Denyse,Melançon-Bolduc,practitioner,Université de Montréal,NA,NA,NA
 2160,Hillary,Gugan,academic,University of Toronto,NA,NA,NA
 2161,Monica Jean,Henderson,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=tE4OZRMAAAAJ""",NA,NA
 2162,Maya R.,Hirschman,academic,University of Toronto,NA,NA,NA
@@ -1293,7 +1293,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2167,Junoh,Kim,academic,University of Toronto,NA,NA,NA
 2168,Nahyeon Alice,Kim,academic,University of Toronto,"""https://scholar.google.com/citations?user=4gH6XQEAAAAJ&hl=en""",NA,NA
 2169,Jessica,Lapp,academic,University of Toronto,"""https://scholar.google.com/citations?user=Q67Q-mUAAAAJ&hl=en""",NA,NA
-217,Christiane,Melançon,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+217,Christiane,Melançon,practitioner,Université de Montréal,NA,NA,NA
 2170,Amir,Lavie,academic,University of Toronto,NA,NA,NA
 2171,Margaret,Macdonald,academic,University of Toronto,NA,NA,NA
 2172,Emily,Maemura,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=5ez_eo8AAAAJ""",NA,NA
@@ -1304,7 +1304,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2177,Heidi,Overhill,academic,University of Toronto,NA,NA,NA
 2178,Julian,Posada,academic,University of Toronto,"""https://scholar.google.ca/citations?user=mt3Aq1MAAAAJ&hl=en""",NA,NA
 2179,Sandrena,Raymond,academic,University of Toronto,NA,NA,NA
-218,Assia,Mourid,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+218,Assia,Mourid,practitioner,Université de Montréal,NA,NA,NA
 2180,Mark,Sedore,academic,University of Toronto,NA,NA,NA
 2181,Camille-Mary,Sharp,academic,University of Toronto,NA,NA,NA
 2182,Rianka,Singh,academic,University of Toronto,NA,NA,NA
@@ -1315,7 +1315,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2187,Yuxing,Zhang,academic,University of Toronto,NA,NA,NA
 2188,Yan,Zhou,academic,University of Toronto,NA,NA,NA
 2189,Danielle,Allard,academic,University of Alberta,NA,"""https://orcid.org/0000-0002-7580-4543""",NA
-219,Justine,Ménard,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+219,Justine,Ménard,practitioner,Université de Montréal,NA,NA,NA
 2190,Michael,Mcnally,academic,University of Alberta,NA,"""https://orcid.org/0000-0003-2799-5389""",NA
 2191,Tami,Oliphant,academic,University of Alberta,NA,"""https://orcid.org/0000-0002-9079-9201""",NA
 2192,Dinesh,Rathi,academic,University of Alberta,NA,NA,NA
@@ -1326,8 +1326,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2197,Dangzhi,Zhao,academic,University of Alberta,NA,NA,NA
 2198,Nicola,Amato,academic,University of Alberta,NA,NA,NA
 2199,Tanya,Ball,academic,University of Alberta,NA,"""https://orcid.org/0000-0002-4539-5152""",NA
-22,Ève,Richard,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-6520-3488""",NA
-220,Marie-Ève,Ménard,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+22,Ève,Richard,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-6520-3488""",NA
+220,Marie-Ève,Ménard,practitioner,Université de Montréal,NA,NA,NA
 2200,Sharon,Farnel,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=hNH24tEAAAAJ""","""https://orcid.org/0000-0002-8869-2595"", ""https://orcid.org/0000-0002-8869-2595""",NA
 2201,Norene,Erickson,academic,University of Alberta,NA,"""https://orcid.org/0000-0003-4091-6534""",NA
 2202,Janice,Kung,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=Ly0UDLsAAAAJ"", ""https://scholar.google.com/citations?hl=en&user=Ly0UDLsAAAAJ""","""https://orcid.org/0000-0001-8676-8675"", ""https://orcid.org/0000-0001-8676-8675""",NA
@@ -1338,7 +1338,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2207,Sarah,Polkinghorne,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=oYFXZ_oAAAAJ"", ""https://scholar.google.com/citations?hl=en&user=oYFXZ_oAAAAJ""","""https://orcid.org/0000-0002-8204-6891"", ""https://orcid.org/0000-0002-8204-6891""",NA
 2208,Joanne,Rodger,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=n0zND8cAAAAJ""",NA,NA
 2209,Alvin M.,Schrader,academic,University of Alberta,NA,NA,NA
-221,France,Nadeau,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0001-6399-9761""",NA
+221,France,Nadeau,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0001-6399-9761""",NA
 2210,Maggie,Shane,academic,University of Alberta,NA,NA,NA
 2211,Robyn,Stobbs,academic,University of Alberta,NA,"""https://orcid.org/0000-0003-2328-6307""",NA
 2212,Lei,Zhang,academic,University of Alberta,NA,"""https://orcid.org/0000-0002-7939-8968""",NA
@@ -1349,7 +1349,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2217,Max,Evans,academic,McGill University,"""https://scholar.google.com.au/citations?hl=en&user=ZM4v5VwAAAAJ""",NA,NA
 2218,Ilja,Frissen,academic,McGill University,"""https://scholar.google.com.au/citations?hl=en&user=oXRwaTgAAAAJ""",NA,NA
 2219,Benjamin C. M.,Fung,academic,McGill University,NA,NA,NA
-222,Ariane,Parayre,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+222,Ariane,Parayre,practitioner,Université de Montréal,NA,NA,NA
 2220,Catherine,Guastavino,academic,McGill University,"""https://scholar.google.com.au/citations?hl=en&user=--26DqgAAAAJ""",NA,NA
 2222,Eun G.,Park,academic,McGill University,NA,NA,NA
 2223,Rebekah,Willson,academic,McGill University,"""https://scholar.google.com.au/citations?user=4rcrWMkAAAAJ&hl=en""","""https://orcid.org/0000-0001-8430-8827""",NA
@@ -1359,7 +1359,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2227,Jean,Archambeault,academic,McGill University,NA,NA,NA
 2228,Banafsheh,Asadi,academic,McGill University,NA,NA,NA
 2229,Philips,Ayeni,academic,McGill University,NA,"""https://orcid.org/0000-0002-9124-9121""",NA
-223,Eve,Paquette-Bigras,practitioner,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=1dcCa9cAAAAJ""","""https://orcid.org/0000-0001-5576-8795""",NA
+223,Eve,Paquette-Bigras,practitioner,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=1dcCa9cAAAAJ""","""https://orcid.org/0000-0001-5576-8795""",NA
 2230,Claudia,Baptista Claros,academic,McGill University,NA,NA,NA
 2231,Catalin,Bidian,academic,McGill University,NA,NA,NA
 2232,Aaron,Bowen-Zeicheck,academic,McGill University,NA,NA,NA
@@ -1370,7 +1370,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2237,Morgannis,Graham,academic,McGill University,NA,NA,NA
 2238,Vera,Granikov,academic,McGill University,NA,NA,NA
 2239,Rebecca,Katz,academic,McGill University,NA,NA,NA
-224,Caroline,Patenaude,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+224,Caroline,Patenaude,practitioner,Université de Montréal,NA,NA,NA
 2240,Svetlana,Kochkina,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=RGyUbGgAAAAJ""","""https://orcid.org/0000-0002-8506-4606""",NA
 2241,Cynthia,Henewaa Kumah,academic,McGill University,NA,NA,NA
 2242,Jwen Fai,Low,academic,McGill University,NA,NA,NA
@@ -1381,7 +1381,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2247,Dan,Scott,academic,McGill University,NA,"""https://orcid.org/0000-0001-8438-4926""",NA
 2248,Afroza,Sultana,academic,McGill University,NA,NA,NA
 2249,Cynthia,Tarlao,academic,McGill University,NA,NA,NA
-225,François-Xavier,Paré,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+225,François-Xavier,Paré,practitioner,Université de Montréal,NA,NA,NA
 2250,Christopher,Trudeau,academic,McGill University,NA,NA,NA
 2251,Richard,Yanaky,academic,McGill University,NA,NA,NA
 2252,Inge,Alberts,academic,University of Ottawa,NA,NA,NA
@@ -1392,7 +1392,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2257,William Michael,Curran,academic,University of Ottawa,NA,NA,NA
 2258,Tom,Delsey,academic,University of Ottawa,NA,NA,NA
 2259,Pierre,Desrochers,academic,University of Ottawa,NA,"""https://orcid.org/0000-0002-9601-1251""",NA
-226,Vincent,Perrault,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+226,Vincent,Perrault,practitioner,Université de Montréal,NA,NA,NA
 2260,Amy Margaret,Tector,academic,University of Ottawa,NA,NA,NA
 2261,Melissa,Adler,academic,Western University,NA,NA,NA
 2262,Isola,Ajiferuke,academic,Western University,NA,NA,NA
@@ -1403,7 +1403,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2267,Tim,Blackmore,academic,Western University,NA,NA,NA
 2268,Zak,Bronson,academic,Western University,"""https://scholar.google.ca/citations?user=xlRfFPoAAAAJ&hl=en""",NA,NA
 2269,Jacquie,Burkell,academic,Western University,NA,NA,NA
-227,Stéphanie,Pham-Dang,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+227,Stéphanie,Pham-Dang,practitioner,Université de Montréal,NA,NA,NA
 2270,Grant,Campbell,academic,Western University,NA,NA,NA
 2271,Lucia Cedeira,Serantes,academic,Western University,"""https://scholar.google.ca/citations?user=hjJvlycAAAAJ&hl=en""",NA,NA
 2272,Alissa,Centivany,academic,Western University,NA,NA,NA
@@ -1414,7 +1414,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2277,Norma,Coates,academic,Western University,"""https://scholar.google.ca/citations?user=Z1gCn5QAAAAJ&hl=en""",NA,NA
 2278,Edward,Comor,academic,Western University,"""https://scholar.google.ca/citations?user=mFieWscAAAAJ&hl=en""",NA,NA
 2279,James,Compton,academic,Western University,NA,NA,NA
-228,Lina,Picard,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+228,Lina,Picard,practitioner,Université de Montréal,NA,NA,NA
 2280,Jeremy,Copeland,academic,Western University,NA,NA,NA
 2281,Larry,Cornies,academic,Western University,NA,NA,NA
 2282,Robert,Craig,academic,Western University,NA,NA,NA
@@ -1424,7 +1424,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2287,Michelle,Edwards,academic,Western University,NA,NA,NA
 2288,Kane X.,Faucher,academic,Western University,"""https://scholar.google.ca/citations?user=ZFHQtL8AAAAJ&hl=en""",NA,NA
 2289,Joyce,Garnett,academic,Western University,NA,NA,NA
-229,Marie-Claude,Poirier,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+229,Marie-Claude,Poirier,practitioner,Université de Montréal,NA,NA,NA
 2290,Amanda F.,Grzyb,academic,Western University,NA,"""https://orcid.org/0000-0003-3950-2254""",NA
 2291,Alison,Hearn,academic,Western University,NA,NA,NA
 2292,Davin,Helkenberg,academic,Western University,"""https://scholar.google.ca/citations?user=oh8BfJYAAAAJ&hl=en""",NA,NA
@@ -1435,8 +1435,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2297,Atle Mikkola,Kjosen,academic,Western University,NA,NA,NA
 2298,Susan,Knabe,academic,Western University,NA,NA,NA
 2299,Meredith,Levine,academic,Western University,NA,NA,NA
-23,Loubna,Ghaouti,practitioner,UniversitÃ© Laval,NA,NA,NA
-230,Rafael,Rangel Braga,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0002-5181-2901""",NA
+23,Loubna,Ghaouti,practitioner,Université Laval,NA,NA,NA
+230,Rafael,Rangel Braga,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0002-5181-2901""",NA
 2300,Ryan,Mack,academic,Western University,NA,NA,NA
 2301,Doug,Mann,academic,Western University,NA,NA,NA
 2302,Jenn,Martin,academic,Western University,NA,NA,NA
@@ -1447,7 +1447,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2307,Anabel,Quan-Haase,academic,Western University,"""https://scholar.google.ca/citations?user=o5za6gIAAAAJ&hl=en""",NA,NA
 2308,Mark,Rayner,academic,Western University,NA,NA,NA
 2309,Joanna,Redden,academic,Western University,NA,NA,NA
-231,Valérie,Rioux,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0001-6904-5811""",NA
+231,Valérie,Rioux,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0001-6904-5811""",NA
 2310,John,Reed,academic,Western University,NA,NA,NA
 2311,Daniel,Robinson,academic,Western University,NA,NA,NA
 2312,Paulette,Rothbauer,academic,Western University,"""https://scholar.google.ca/citations?user=DuDHV6kAAAAJ&hl=en""",NA,NA
@@ -1458,7 +1458,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2317,Sharon,Sliwinski,academic,Western University,NA,NA,NA
 2318,Romayne,Smith Fullerton,academic,Western University,"""https://scholar.google.com/citations?user=b1Wo36UAAAAJ&hl=en""",NA,NA
 2319,Daniela,Sneppova,academic,Western University,NA,NA,NA
-232,Diane,Sauvé,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+232,Diane,Sauvé,practitioner,Université de Montréal,NA,NA,NA
 2320,Don,Spanner,academic,Western University,NA,NA,NA
 2321,Matt,Stahl,academic,Western University,NA,NA,NA
 2322,Luke,Stark,academic,Western University,"""https://scholar.google.com/citations?user=iQaNa-kAAAAJ&hl=en""",NA,NA
@@ -1469,7 +1469,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2327,Samuel E.,Trosow,academic,Western University,NA,NA,NA
 2328,Liwen,Vaughan,academic,Western University,"""https://scholar.google.ca/citations?user=gKwgzUMAAAAJ&hl=en""",NA,NA
 2329,Nadine,Wathen,academic,Western University,"""https://scholar.google.ca/citations?user=5cK8i90AAAAJ&hl=en""",NA,NA
-233,Hélène,Tardif,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+233,Hélène,Tardif,practitioner,Université de Montréal,NA,NA,NA
 2330,Sandra,Toze,academic,Dalhousie University,"""https://scholar.google.com/citations?user=tdxI-oYAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-7487-7089""",NA
 2331,Louise,Spiteri,academic,Dalhousie University,"""https://scholar.google.com/citations?user=bRj8KHYAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-2659-8085""",NA
 2332,Bertrum,Macdonald,academic,Dalhousie University,NA,"""https://orcid.org/0000-0001-5327-2657""",NA
@@ -1480,7 +1480,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2337,Fiona,Black,academic,Dalhousie University,NA,NA,NA
 2338,Colin,Conrad,academic,Dalhousie University,"""https://scholar.google.com/citations?user=VstyDe8AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-3891-1670""",NA
 2339,Mary Dykstra,Lynch,academic,Dalhousie University,NA,NA,NA
-234,Mathieu,Thomas,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0001-9514-8371""",NA
+234,Mathieu,Thomas,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0001-9514-8371""",NA
 2340,Vivian,Howard,academic,Dalhousie University,"""https://scholar.google.ca/citations?user=lYQJpg0AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-6081-7037""",NA
 2341,Keith,Lawson,academic,Dalhousie University,NA,"""https://orcid.org/0000-0002-2095-0236""",NA
 2342,Philippe,Mongeon,academic,Dalhousie University,"""https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en"", ""https://scholar.google.com/citations?hl=en&user=wvX4S8sAAAAJ""","""https://orcid.org/0000-0003-1021-059X""",NA
@@ -1491,7 +1491,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2347,Lindsay,Mcniff,academic,Dalhousie University,"""https://scholar.google.com/citations?user=pIbKdK0AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0001-5070-7635""",NA
 2348,Anatoliy,Gruzd,academic,Dalhousie University,"""https://scholar.google.com/citations?user=x_gQTHcAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0003-2366-5163""",NA
 2349,Carla,Heggie,academic,Dalhousie University,NA,NA,NA
-235,Juliette,Tirard-Collet,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+235,Juliette,Tirard-Collet,practitioner,Université de Montréal,NA,NA,NA
 2350,Paul,Mckenna,academic,Dalhousie University,NA,NA,NA
 2351,Marina,Pluzhenskaya,academic,Dalhousie University,NA,NA,NA
 2352,Enayat,Rajabi,academic,Dalhousie University,"""https://scholar.google.com/citations?user=Tjn215sAAAAJ&hl=en""","""https://orcid.org/0000-0002-9557-0043""",NA
@@ -1502,7 +1502,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2357,Danielle,Cossarini,academic,Dalhousie University,NA,NA,NA
 2358,Riel,Gallant,academic,Dalhousie University,"""https://scholar.google.ca/citations?user=0UeEbZwAAAAJ&hl=en""",NA,NA
 2359,Michael,Groenendyk,academic,Dalhousie University,NA,NA,NA
-236,Normand,Trudel,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+236,Normand,Trudel,practitioner,Université de Montréal,NA,NA,NA
 2360,Yusuke,Ishimura,academic,Dalhousie University,NA,"""https://orcid.org/0000-0001-7236-1292""",NA
 2361,Carrie,Mcclary,academic,Dalhousie University,NA,NA,NA
 2362,Haidar,Moukdod,academic,Dalhousie University,NA,NA,NA
@@ -1513,7 +1513,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2367,Laurel,Tarulli,academic,Dalhousie University,NA,NA,NA
 2368,Amanda,Wilk,academic,Dalhousie University,NA,NA,NA
 2369,Lee,Wilson,academic,Dalhousie University,NA,NA,NA
-237,Julie,Vaillancourt,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+237,Julie,Vaillancourt,practitioner,Université de Montréal,NA,NA,NA
 2370,Dhary,Abuhimed,academic,McGill University,NA,NA,NA
 2371,Mohammed,Alghamdi,academic,McGill University,NA,NA,NA
 2372,F.,Ayachi,academic,McGill University,NA,NA,NA
@@ -1524,7 +1524,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2377,Cedric,Camier,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=G26U2JsAAAAJ""","""https://orcid.org/0000-0001-5517-5615""",NA
 2378,Ian,Clement,academic,McGill University,NA,NA,NA
 2379,Charles,Cole,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=t2Atl98AAAAJ""",NA,NA
-238,Camille,Veillette-Péclet,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+238,Camille,Veillette-Péclet,practitioner,Université de Montréal,NA,NA,NA
 2380,Emily,Crist,academic,McGill University,NA,NA,NA
 2381,Steven,Ding,academic,McGill University,"""https://scholar.google.ca/citations?user=n5-S6dIAAAAJ&hl=en""","""https://orcid.org/0000-0002-5149-5918""",NA
 2382,Jesse,Dinneen,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=9_wnKjkAAAAJ""","""https://orcid.org/0000-0001-5214-5891""",NA
@@ -1535,7 +1535,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2387,Francois-Xavier,Feron,academic,McGill University,NA,NA,NA
 2388,Alexandre,Fortier,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=Pop2RF0AAAAJ""",NA,NA
 2389,Benjamin,Fung,academic,McGill University,"""https://scholar.google.com.au/citations?hl=en&user=W_CFvAYAAAAJ"", ""https://scholar.google.com/citations?hl=en&user=W_CFvAYAAAAJ""","""https://orcid.org/0000-0001-8423-2906""",NA
-239,Marie-Hélène,Vézina,practitioner,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0002-1678-6517""",NA
+239,Marie-Hélène,Vézina,practitioner,Université de Montréal,NA,"""https://orcid.org/0000-0002-1678-6517""",NA
 2390,Rhiannon,Gainor,academic,McGill University,NA,NA,NA
 2391,Manuel,Gil,academic,McGill University,NA,NA,NA
 2392,Jennifer,Grandbois,academic,McGill University,NA,NA,NA
@@ -1546,18 +1546,18 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2397,Nouf,Khashman,academic,McGill University,NA,NA,NA
 2398,Lorie,Kloda,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=MnBc16EAAAAJ""","""https://orcid.org/0000-0003-1429-1497""",NA
 2399,Manon,Lamontagne,academic,McGill University,NA,NA,NA
-24,Marie-Claude,Mailhot,practitioner,UniversitÃ© Laval,NA,NA,NA
-240,Céline,Widmer,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+24,Marie-Claude,Mailhot,practitioner,Université Laval,NA,NA,NA
+240,Céline,Widmer,practitioner,Université de Montréal,NA,NA,NA
 2400,Isabelle,Lamoureux,academic,McGill University,NA,NA,NA
 2401,Jennifer,Langlois,academic,McGill University,NA,NA,NA
-2402,Vincent,Lariviere,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=UvfK8IUAAAAJ""","""https://orcid.org/0000-0002-2733-0689""",NA
+2402,Vincent,Lariviere,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=UvfK8IUAAAAJ""","""https://orcid.org/0000-0002-2733-0689""",NA
 2403,John,Leide,academic,McGill University,NA,NA,NA
 2404,Geoffrey,Little,academic,McGill University,NA,"""https://orcid.org/0000-0001-8467-4149"", ""https://orcid.org/0000-0001-8467-4149""",NA
 2406,Emily,Maddock,academic,McGill University,NA,NA,NA
 2407,Irina,Melikhova,academic,McGill University,NA,NA,NA
 2408,Elaine,Menard,academic,McGill University,NA,NA,NA
 2409,Karyn,Moffatt,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=FYdnVc0AAAAJ"", ""https://scholar.google.com.au/citations?hl=en&user=FYdnVc0AAAAJ""","""https://orcid.org/0000-0002-7081-0709"", ""https://orcid.org/0000-0002-7081-0709""",NA
-241,Émilie,Walsh,practitioner,UniversitÃ© de MontrÃ©al,NA,NA,NA
+241,Émilie,Walsh,practitioner,Université de Montréal,NA,NA,NA
 2410,Emma,Murphy,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=ieIgPe8AAAAJ""",NA,NA
 2411,Valerie,Nesset,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=fZe0h6oAAAAJ""","""https://orcid.org/0000-0002-7601-1633""",NA
 2412,Alexandra,Obradovich,academic,McGill University,NA,NA,NA
@@ -1568,7 +1568,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2417,David,Pickup,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=yDXp_GcAAAAJ""","""https://orcid.org/0000-0001-5213-1238""",NA
 2418,Amandine,Pras,academic,McGill University,NA,NA,NA
 2419,Anne-Marie,Quiring,academic,McGill University,NA,NA,NA
-242,Emily,Benton,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+242,Emily,Benton,practitioner,Université d'Ottawa,NA,NA,NA
 2420,Fei,Shu,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=q-qr8MMAAAAJ""","""https://orcid.org/0000-0002-1946-5065""",NA
 2421,Margaret,Smithglass,academic,McGill University,NA,NA,NA
 2422,Daniel,Steele,academic,McGill University,"""https://scholar.google.com/citations?hl=en&user=7nusY1IAAAAJ""","""https://orcid.org/0000-0002-5673-755X""",NA
@@ -1579,7 +1579,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2427,Katherine,Vanderlinden,academic,McGill University,NA,NA,NA
 2428,Charles,Verron,academic,McGill University,"""https://scholar.google.com.au/citations?user=QK2iudgAAAAJ&hl=en""",NA,NA
 2429,Qing,Zou,academic,McGill University,NA,"""https://orcid.org/0000-0002-1908-4270""",NA
-243,Marina,Bokovay,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+243,Marina,Bokovay,practitioner,Université d'Ottawa,NA,NA,NA
 2430,Natasha,Zwarich,academic,McGill University,NA,NA,NA
 2431,Alicia,Cappello,academic,University of Alberta,NA,"""https://orcid.org/0000-0003-0716-5337""",NA
 2432,Keren,Dali,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=IJnBrRQAAAAJ"", ""https://scholar.google.com/citations?user=IJnBrRQAAAAJ&hl=en""","""https://orcid.org/0000-0001-5379-5714""",NA
@@ -1590,7 +1590,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2437,Heidi,Julien,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=9CEsHNgAAAAJ""","""https://orcid.org/0000-0001-8633-5124""",NA
 2438,Patricia,Larkinlieffers,academic,University of Alberta,NA,NA,NA
 2439,Margaret,Mackey,academic,University of Alberta,NA,"""https://orcid.org/0000-0001-5828-9351""",NA
-244,Michelle,Brown,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+244,Michelle,Brown,practitioner,Université d'Ottawa,NA,NA,NA
 2440,Michael,Mcdonnell,academic,University of Alberta,NA,NA,NA
 2441,Julie,Mondoux,academic,University of Alberta,NA,NA,NA
 2442,Renee,Morrissey,academic,University of Alberta,NA,NA,NA
@@ -1601,7 +1601,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2447,All,Shiri,academic,University of Alberta,NA,NA,NA
 2448,Andreas,Strotmann,academic,University of Alberta,"""https://scholar.google.com/citations?hl=en&user=dKuMsmEAAAAJ""",NA,NA
 2449,Maria,Tan,academic,University of Alberta,NA,"""https://orcid.org/0000-0003-0314-3974""",NA
-245,Mélanie,Brunet,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=7aR4EjYAAAAJ""","""https://orcid.org/0000-0002-6912-340X""",NA
+245,Mélanie,Brunet,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=7aR4EjYAAAAJ""","""https://orcid.org/0000-0002-6912-340X""",NA
 2450,K.,Williamson,academic,University of Alberta,NA,NA,NA
 2451,Rafa,Absar,academic,University of British Columbia,NA,NA,NA
 2452,Colleen,Addison,academic,University of British Columbia,NA,NA,NA
@@ -1612,7 +1612,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2457,Alex,Garnett,academic,University of British Columbia,"""https://scholar.google.com/citations?user=bkMt-N4AAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-0079-6622""",NA
 2458,Sarah,Gilbert,academic,University of British Columbia,"""https://scholar.google.com/citations?user=mUWci5sAAAAJ&hl=en&oi=sra""","""https://orcid.org/0000-0003-2718-4121""",NA
 2459,Kathleen,Gollner,academic,University of British Columbia,"""https://scholar.google.ca/citations?user=4BKmj5sAAAAJ&hl=en""","""https://orcid.org/0000-0002-1753-5461""",NA
-246,Joan,Cavanagh,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0002-3811-8026""",NA
+246,Joan,Cavanagh,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0002-3811-8026""",NA
 2460,Blake,Hawkins,academic,University of British Columbia,"""https://scholar-google-ca.ezproxy.library.dal.ca/citations?hl=en&user=jO2zPAEAAAAJ""","""https://orcid.org/0000-0002-1753-5461""",NA
 2461,Ken,Haycock,academic,University of British Columbia,NA,NA,NA
 2462,Caroline,Haythornthwaite,academic,University of British Columbia,"""https://scholar.google.com/citations?hl=en&user=lok_1lcAAAAJ""","""https://orcid.org/0000-0002-7311-3140""",NA
@@ -1623,40 +1623,40 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2467,Jean,Mckendry,academic,University of British Columbia,NA,"""https://orcid.org/0000-0002-1546-9827""",NA
 2468,Weimei,Pan,academic,University of British Columbia,NA,"""https://orcid.org/0000-0003-4098-4684""",NA
 2469,Edie,Rasmussen,academic,University of British Columbia,NA,"""https://orcid.org/0000-0002-0234-892X""",NA
-247,Talia,Chung,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+247,Talia,Chung,practitioner,Université d'Ottawa,NA,NA,NA
 2470,Corinne,Rogers,academic,University of British Columbia,"""https://scholar-google-ca.ezproxy.library.dal.ca/citations?hl=en&user=dlph4g4AAAAJ""","""https://orcid.org/0000-0003-2664-7825""",NA
 2471,Judith,Saltman,academic,University of British Columbia,NA,NA,NA
 2472,Tenny,Webster,academic,University of British Columbia,NA,"""https://orcid.org/0000-0002-9038-5957""",NA
 2473,Lei,Zhang,academic,University of British Columbia,NA,"""https://orcid.org/0000-0002-7939-8968""",NA
-2474,Antoine,Archambault,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=Q1SZQLwAAAAJ"", ""https://scholar.google.com/citations?hl=en&user=Q1SZQLwAAAAJ""","""https://orcid.org/0000-0001-6668-1521"", ""https://orcid.org/0000-0001-6668-1521""",NA
-2476,Pierrette,Bergeron,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2477,Nicolas,Berube,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2478,Rebecca,Bouvier,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2479,Timothy,Bowman,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=jW4t8RoAAAAJ""","""https://orcid.org/0000-0003-0247-4771""",NA
-248,Mathieu,Cloutier,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=1UtIkTgAAAAJ""",NA,NA
-2480,Aida,Chebbi,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2481,Shiji,Chen,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2482,Lyne,Da Sylva,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2483,Marie,Demoulin,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2484,Daniele,Fanelli,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=4AyPaUwAAAAJ""","""https://orcid.org/0000-0003-1780-1958""",NA
-2485,Dominique,Gazo,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2486,Michele,Hudon,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2487,Anne,Klein,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2488,Christian,Lachance,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2489,Vincent,Larivière,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?user=UvfK8IUAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-2733-0689""",NA
-249,Jennifer,Dekker,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=0SvKbTsAAAAJ""","""https://orcid.org/0000-0001-6494-2636""",NA
-2490,Benoit,Macaluso,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2491,Suzanne,Mathieu,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2492,Philippe,Mongeon,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en"", ""https://scholar.google.com/citations?hl=en&user=wvX4S8sAAAAJ""","""https://orcid.org/0000-0003-1021-059X""",NA
-2493,Sabine,Mas,academic,UniversitÃ© de MontrÃ©al,NA,"""https://orcid.org/0000-0002-0657-9987""",NA
-2494,Adèle,Paul-Hus,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=ZsZex3IAAAAJ""","""https://orcid.org/0000-0002-4572-5385""",NA
-2495,Maxime,Sainte-Marie,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=Vu6FKGIAAAAJ""","""https://orcid.org/0000-0002-0760-0290""",NA
-2496,Fei,Shu,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=q-qr8MMAAAAJ""","""https://orcid.org/0000-0002-1946-5065""",NA
-2497,Elise,Smith,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=HaLC82wAAAAJ""","""https://orcid.org/0000-0002-4615-8204""",NA
-2498,James,Turner,academic,UniversitÃ© de MontrÃ©al,NA,NA,NA
-2499,Sam,Work,academic,UniversitÃ© de MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=wnP9jTQAAAAJ""",NA,NA
-25,Myriam,Dupont,practitioner,UniversitÃ© Laval,NA,NA,NA
-250,Marie-Cécile,Domecq,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0002-5977-2844""",NA
+2474,Antoine,Archambault,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=Q1SZQLwAAAAJ"", ""https://scholar.google.com/citations?hl=en&user=Q1SZQLwAAAAJ""","""https://orcid.org/0000-0001-6668-1521"", ""https://orcid.org/0000-0001-6668-1521""",NA
+2476,Pierrette,Bergeron,academic,Université de Montréal,NA,NA,NA
+2477,Nicolas,Berube,academic,Université de Montréal,NA,NA,NA
+2478,Rebecca,Bouvier,academic,Université de Montréal,NA,NA,NA
+2479,Timothy,Bowman,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=jW4t8RoAAAAJ""","""https://orcid.org/0000-0003-0247-4771""",NA
+248,Mathieu,Cloutier,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=1UtIkTgAAAAJ""",NA,NA
+2480,Aida,Chebbi,academic,Université de Montréal,NA,NA,NA
+2481,Shiji,Chen,academic,Université de Montréal,NA,NA,NA
+2482,Lyne,Da Sylva,academic,Université de Montréal,NA,NA,NA
+2483,Marie,Demoulin,academic,Université de Montréal,NA,NA,NA
+2484,Daniele,Fanelli,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=4AyPaUwAAAAJ""","""https://orcid.org/0000-0003-1780-1958""",NA
+2485,Dominique,Gazo,academic,Université de Montréal,NA,NA,NA
+2486,Michele,Hudon,academic,Université de Montréal,NA,NA,NA
+2487,Anne,Klein,academic,Université de Montréal,NA,NA,NA
+2488,Christian,Lachance,academic,Université de Montréal,NA,NA,NA
+2489,Vincent,Larivière,academic,Université de Montréal,"""https://scholar.google.com/citations?user=UvfK8IUAAAAJ&hl=en&oi=ao""","""https://orcid.org/0000-0002-2733-0689""",NA
+249,Jennifer,Dekker,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=0SvKbTsAAAAJ""","""https://orcid.org/0000-0001-6494-2636""",NA
+2490,Benoit,Macaluso,academic,Université de Montréal,NA,NA,NA
+2491,Suzanne,Mathieu,academic,Université de Montréal,NA,NA,NA
+2492,Philippe,Mongeon,academic,Université de Montréal,"""https://scholar.google.ca/citations?user=wvX4S8sAAAAJ&hl=en"", ""https://scholar.google.com/citations?hl=en&user=wvX4S8sAAAAJ""","""https://orcid.org/0000-0003-1021-059X""",NA
+2493,Sabine,Mas,academic,Université de Montréal,NA,"""https://orcid.org/0000-0002-0657-9987""",NA
+2494,Adèle,Paul-Hus,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=ZsZex3IAAAAJ""","""https://orcid.org/0000-0002-4572-5385""",NA
+2495,Maxime,Sainte-Marie,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=Vu6FKGIAAAAJ""","""https://orcid.org/0000-0002-0760-0290""",NA
+2496,Fei,Shu,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=q-qr8MMAAAAJ""","""https://orcid.org/0000-0002-1946-5065""",NA
+2497,Elise,Smith,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=HaLC82wAAAAJ""","""https://orcid.org/0000-0002-4615-8204""",NA
+2498,James,Turner,academic,Université de Montréal,NA,NA,NA
+2499,Sam,Work,academic,Université de Montréal,"""https://scholar.google.com/citations?hl=en&user=wnP9jTQAAAAJ""",NA,NA
+25,Myriam,Dupont,practitioner,Université Laval,NA,NA,NA
+250,Marie-Cécile,Domecq,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0002-5977-2844""",NA
 2501,Jairo,Ciro,academic,University of Ottawa,"""https://scholar.google.com/citations?user=r3WY86MAAAAJ&hl=en""","""https://orcid.org/0000-0001-6806-5722""",NA
 2502,Claire,Dormann,academic,University of Ottawa,NA,"""https://orcid.org/0000-0002-3952-6742""",NA
 2503,Ian,Kerr,academic,University of Ottawa,NA,"""https://orcid.org/0000-0003-1851-3659""",NA
@@ -1666,7 +1666,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2507,Tracey,Bowen,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=9hKrJWsAAAAJ""","""https://orcid.org/0000-0002-5062-1994""",NA
 2508,Alison,Callahan,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=0w8U7NQAAAAJ""",NA,NA
 2509,Niel,Chah,academic,University of Toronto,"""https://scholar.google.ca/citations?hl=en&user=M-W7xXsAAAAJ""","""https://orcid.org/0000-0002-3377-7823""",NA
-251,René,Duplain,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+251,René,Duplain,practitioner,Université d'Ottawa,NA,NA,NA
 2510,Joan,Cherry,academic,University of Toronto,NA,NA,NA
 2511,Mark,Chignell,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=6C1lQzwAAAAJ""","""https://orcid.org/0000-0001-8120-6905""",NA
 2512,Ginger,Coons,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=HLhWWI4AAAAJ""",NA,NA
@@ -1677,7 +1677,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2517,Quinn,Dupont,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=wHjhDxIAAAAJ""","""https://orcid.org/0000-0002-9376-6755""",NA
 2518,Hadas,Erel,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=Ee8iAEoAAAAJ""","""https://orcid.org/0000-0001-7099-6104""",NA
 2519,Joseph,Ferenbok,academic,University of Toronto,NA,NA,NA
-252,Alain,El Hofi,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+252,Alain,El Hofi,practitioner,Université d'Ottawa,NA,NA,NA
 2520,Adam,Fiser,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=7V-iQw0AAAAJ""",NA,NA
 2521,Patricia,Fleming,academic,University of Toronto,NA,NA,NA
 2522,Robert,Frost,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=YHadGjsAAAAJ""","""https://orcid.org/0000-0001-8433-2317""",NA
@@ -1688,7 +1688,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2527,Daniel,Gross,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=THBMsQwAAAAJ""",NA,NA
 2528,Elysia,Guzik,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=a653SQ0AAAAJ""",NA,NA
 2529,Alison,Harvey,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=ZuS6pXIAAAAJ""","""https://orcid.org/0000-0002-6978-5622""",NA
-253,Karine,Fournier,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0001-6030-2412""",NA
+253,Karine,Fournier,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0001-6030-2412""",NA
 2530,Zack,Hayat,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=QDX-bRsAAAAJ""","""https://orcid.org/0000-0002-9807-6024""",NA
 2531,Stephen,Hockema,academic,University of Toronto,NA,NA,NA
 2532,Jenna,Jacobson,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=x50eXQkAAAAJ""","""https://orcid.org/0000-0002-1371-1077""",NA
@@ -1699,7 +1699,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2537,Yunpeng,Li,academic,University of Toronto,NA,NA,NA
 2538,Robert,Luke,academic,University of Toronto,NA,NA,NA
 2539,Susan,Macdonald,academic,University of Toronto,NA,NA,NA
-254,Majela,Guzman Gomez,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+254,Majela,Guzman Gomez,practitioner,Université d'Ottawa,NA,NA,NA
 2540,Quenby,Mahood,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=Nqz6Qg4AAAAJ""","""https://orcid.org/0000-0002-7814-2039""",NA
 2541,Christine,Marton,academic,University of Toronto,NA,"""https://orcid.org/0000-0002-9790-5679""",NA
 2542,C.,Marton,academic,University of Toronto,NA,NA,NA
@@ -1710,7 +1710,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2547,Maroof,Moral,academic,University of Toronto,NA,NA,NA
 2548,Indrani,Nadarajah,academic,University of Toronto,NA,NA,NA
 2549,Takako,Nomura,academic,University of Toronto,NA,NA,NA
-255,Alexandra,Gregory,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+255,Alexandra,Gregory,practitioner,Université d'Ottawa,NA,NA,NA
 2550,Jonathan,Obar,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=HM9FWiMAAAAJ""","""https://orcid.org/0000-0002-8984-751X""",NA
 2551,Vik,Pant,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=eoKMjOMAAAAJ""",NA,NA
 2552,Stephanie,Power,academic,University of Toronto,NA,"""https://orcid.org/0000-0003-0872-5930""",NA
@@ -1721,7 +1721,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2557,Sameen,Rehman,academic,University of Toronto,NA,NA,NA
 2558,Roger,Reka,academic,University of Toronto,NA,"""https://orcid.org/0000-0001-5900-5664"", ""https://orcid.org/0000-0001-5900-5664""",NA
 2559,Gabby,Resch,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=oocdwH0AAAAJ""","""https://orcid.org/0000-0002-2842-111X""",NA
-256,Richard,Harkin,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+256,Richard,Harkin,practitioner,Université d'Ottawa,NA,NA,NA
 2560,J.,Richards,academic,University of Toronto,NA,NA,NA
 2561,Kathleen,Scheaffer,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=zU45EX8AAAAJ""","""https://orcid.org/0000-0001-7362-9895""",NA
 2562,A.,Shachak,academic,University of Toronto,NA,NA,NA
@@ -1732,7 +1732,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2567,Barbara,Soren,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=Z21_m8MAAAAJ""",NA,NA
 2568,Daniel,Southwick,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=jXQ1B3kAAAAJ""",NA,NA
 2569,Yuri,Takhteyev,academic,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=Ig9qsAkAAAAJ""",NA,NA
-257,Elizabeth,Hayden,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+257,Elizabeth,Hayden,practitioner,Université d'Ottawa,NA,NA,NA
 2570,Lynne,Teather,academic,University of Toronto,NA,NA,NA
 2571,Tiffany,Tong,academic,University of Toronto,NA,NA,NA
 2572,Matthew,Wells,academic,University of Toronto,NA,NA,NA
@@ -1743,7 +1743,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2577,Nicole,Askin,academic,Western University,"""https://scholar.google.ca/citations?user=Aa0sabMAAAAJ&hl=en"", ""https://scholar.google.com/citations?hl=en&user=Aa0sabMAAAAJ"", ""https://scholar.google.com/citations?hl=en&user=Aa0sabMAAAAJ""","""https://orcid.org/0000-0001-9211-4694"", ""https://orcid.org/0000-0001-9211-4694""",NA
 2578,Paul,Benedetti,academic,Western University,NA,NA,NA
 2579,Jennifer,Boyko,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=140iqdUAAAAJ""",NA,NA
-258,Ann,Hemingway,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+258,Ann,Hemingway,practitioner,Université d'Ottawa,NA,NA,NA
 2580,Olha,Buchel,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=0A55EA0AAAAJ""",NA,NA
 2581,J.,Burkell,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=L2om3ucAAAAJ""","""https://orcid.org/0000-0003-2645-8127""",NA
 2582,Sarah,Camm,academic,Western University,NA,NA,NA
@@ -1754,7 +1754,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2587,Sonya,Delaat,academic,Western University,NA,NA,NA
 2588,Matt,Devlin,academic,Western University,NA,NA,NA
 2589,Isioma,Elueze,academic,Western University,NA,NA,NA
-259,Sarah,Hill,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+259,Sarah,Hill,practitioner,Université d'Ottawa,NA,NA,NA
 2590,Alexandre,Fortier,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=Pop2RF0AAAAJ""",NA,NA
 2591,Estee,Fresco,academic,Western University,NA,NA,NA
 2592,Patrick,Gavin,academic,Western University,NA,NA,NA
@@ -1765,8 +1765,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2597,Roma,Harris,academic,Western University,NA,NA,NA
 2598,Susan,Hayter,academic,Western University,NA,NA,NA
 2599,Kailee,Hilt,academic,Western University,NA,NA,NA
-26,Susanne,Brillant,practitioner,UniversitÃ© Laval,NA,NA,NA
-260,Amanda,Hodgson,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+26,Susanne,Brillant,practitioner,Université Laval,NA,NA,NA
+260,Amanda,Hodgson,practitioner,Université d'Ottawa,NA,NA,NA
 2600,Dongyan,Huang,academic,Western University,NA,NA,NA
 2601,Alla,Iansavichene,academic,Western University,NA,NA,NA
 2602,Catherine,Johnson,academic,Western University,NA,NA,NA
@@ -1777,7 +1777,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2607,Jennifer,Macgregor,academic,Western University,NA,NA,NA
 2608,Jen,Macgregor,academic,Western University,NA,NA,NA
 2609,Barbara,Macquarrie,academic,Western University,NA,NA,NA
-261,Jolene,Hurtubise,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0002-2732-9880""",NA
+261,Jolene,Hurtubise,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0002-2732-9880""",NA
 2610,Vincent,Manzerolle,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=2hJs1fQAAAAJ""","""https://orcid.org/0000-0001-6652-3179""",NA
 2611,Kim,Martin,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=SF_vuXwAAAAJ""",NA,NA
 2612,Lee,Mcguigan,academic,Western University,NA,NA,NA
@@ -1788,7 +1788,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2617,Anthony,Naimi,academic,Western University,NA,NA,NA
 2618,Diane,Neal,academic,Western University,NA,NA,NA
 2619,Anton,Ninkov,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=Peav_nAAAAAJ""","""https://orcid.org/0000-0002-8276-7656""",NA
-262,Caroline,Hyslop,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+262,Caroline,Hyslop,practitioner,Université d'Ottawa,NA,NA,NA
 2620,Doris,Nussbaumer,academic,Western University,NA,NA,NA
 2621,Daniel,Onaifo,academic,Western University,NA,NA,NA
 2622,Jen,Pecoskie,academic,Western University,NA,NA,NA
@@ -1799,7 +1799,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2627,Catherine,Ross,academic,Western University,NA,NA,NA
 2628,Kathleen,Schreurs,academic,Western University,NA,NA,NA
 2629,Shannon,Sibbald,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=OkM15S0AAAAJ""","""https://orcid.org/0000-0002-4328-6489""",NA
-263,Patrick,Labelle,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+263,Patrick,Labelle,practitioner,Université d'Ottawa,NA,NA,NA
 2630,Sandra,Smeltzer,academic,Western University,NA,NA,NA
 2631,Chris,Vanderwees,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=_UdtfOUAAAAJ""",NA,NA
 2632,Tiffany,Veinot,academic,Western University,"""https://scholar.google.com/citations?hl=en&user=geIXBGYAAAAJ""","""https://orcid.org/0000-0003-1200-9515""",NA
@@ -1809,35 +1809,35 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 2636,Lorraine,Wong,academic,Western University,NA,NA,NA
 2637,Lu,Xiao,academic,Western University,NA,NA,NA
 2638,Yanjun,Zhang,academic,Western University,NA,NA,NA
-264,Catherine,Lachaîne,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0002-9732-9122""",NA
-265,Nigèle,Langlois,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-266,Nathalie,Leclair,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0002-1318-5927""",NA
-267,Yoo Young,Lee,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=nJrcgRUAAAAJ""","""https://orcid.org/0000-0002-9867-6070""",NA
-268,Nathalie,Léonard,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-269,Katrine,Mallan,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-27,Dominique,Caron,practitioner,UniversitÃ© Laval,NA,NA,NA
-270,Moisil,Ingrid,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0001-9174-0108""",NA
-271,Susan,Mowers,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0003-2899-4521""",NA
-272,Jeffrey,Pitblado,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-273,Tea,Rokolj,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=LoSbKw0AAAAJ""","""https://orcid.org/0000-0002-6043-6098""",NA
-274,Allison,Smit,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-275,Evan,Sterling,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=0DJcGvwAAAAJ""","""https://orcid.org/0000-0002-0599-6690""",NA
-276,Agnieszka,Szczotka,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-277,Felicity,Tayler,practitioner,UniversitÃ© d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=N6O-KsIAAAAJ""",NA,NA
-278,Michael,Boutet,practitioner,UniversitÃ© d'Ottawa,NA,NA,https://openalex.org/A3080694415
-279,Megan,Mcmeekin,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-28,Daniela,Zavala Mora,practitioner,UniversitÃ© Laval,"""https://scholar.google.com/citations?hl=en&user=eE3xY5AAAAAJ""","""https://orcid.org/0000-0001-7823-3806""",NA
-280,Ingrid,Moisil,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0001-9174-0108""",NA
-281,Chantal,Ripp,practitioner,UniversitÃ© d'Ottawa,NA,"""https://orcid.org/0000-0003-3544-8158""",NA
-282,Alice,Cocunubova,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-283,Lucie,Desjardins,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-284,Satya,Miller,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-285,Marysol,Moran,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-286,Marie Noël,Noël,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-287,Sydney,Steele,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
-288,Ghislain,Thibault,practitioner,UniversitÃ© d'Ottawa,NA,NA,NA
+264,Catherine,Lachaîne,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0002-9732-9122""",NA
+265,Nigèle,Langlois,practitioner,Université d'Ottawa,NA,NA,NA
+266,Nathalie,Leclair,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0002-1318-5927""",NA
+267,Yoo Young,Lee,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=nJrcgRUAAAAJ""","""https://orcid.org/0000-0002-9867-6070""",NA
+268,Nathalie,Léonard,practitioner,Université d'Ottawa,NA,NA,NA
+269,Katrine,Mallan,practitioner,Université d'Ottawa,NA,NA,NA
+27,Dominique,Caron,practitioner,Université Laval,NA,NA,NA
+270,Moisil,Ingrid,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0001-9174-0108""",NA
+271,Susan,Mowers,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0003-2899-4521""",NA
+272,Jeffrey,Pitblado,practitioner,Université d'Ottawa,NA,NA,NA
+273,Tea,Rokolj,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=LoSbKw0AAAAJ""","""https://orcid.org/0000-0002-6043-6098""",NA
+274,Allison,Smit,practitioner,Université d'Ottawa,NA,NA,NA
+275,Evan,Sterling,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=0DJcGvwAAAAJ""","""https://orcid.org/0000-0002-0599-6690""",NA
+276,Agnieszka,Szczotka,practitioner,Université d'Ottawa,NA,NA,NA
+277,Felicity,Tayler,practitioner,Université d'Ottawa,"""https://scholar.google.com/citations?hl=en&user=N6O-KsIAAAAJ""",NA,NA
+278,Michael,Boutet,practitioner,Université d'Ottawa,NA,NA,https://openalex.org/A3080694415
+279,Megan,Mcmeekin,practitioner,Université d'Ottawa,NA,NA,NA
+28,Daniela,Zavala Mora,practitioner,Université Laval,"""https://scholar.google.com/citations?hl=en&user=eE3xY5AAAAAJ""","""https://orcid.org/0000-0001-7823-3806""",NA
+280,Ingrid,Moisil,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0001-9174-0108""",NA
+281,Chantal,Ripp,practitioner,Université d'Ottawa,NA,"""https://orcid.org/0000-0003-3544-8158""",NA
+282,Alice,Cocunubova,practitioner,Université d'Ottawa,NA,NA,NA
+283,Lucie,Desjardins,practitioner,Université d'Ottawa,NA,NA,NA
+284,Satya,Miller,practitioner,Université d'Ottawa,NA,NA,NA
+285,Marysol,Moran,practitioner,Université d'Ottawa,NA,NA,NA
+286,Marie Noël,Noël,practitioner,Université d'Ottawa,NA,NA,NA
+287,Sydney,Steele,practitioner,Université d'Ottawa,NA,NA,NA
+288,Ghislain,Thibault,practitioner,Université d'Ottawa,NA,NA,NA
 289,Leslie,Taylor,practitioner,Queen's University,NA,"""https://orcid.org/0000-0001-7141-716X""",NA
-29,Stefano,Biondo,practitioner,UniversitÃ© Laval,NA,NA,NA
+29,Stefano,Biondo,practitioner,Université Laval,NA,NA,NA
 290,Anne Brûlé,Brûlé,practitioner,Queen's University,NA,NA,NA
 291,Sandra,Halliday,practitioner,Queen's University,NA,NA,NA
 292,Elizabeth,Read,practitioner,Queen's University,NA,NA,NA
@@ -1848,8 +1848,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 297,Brenda,Reed,practitioner,Queen's University,"""https://scholar.google.com/citations?hl=en&user=w7cIBCJR9gYC""",NA,NA
 298,Michael,White,practitioner,Queen's University,NA,NA,NA
 299,Michele,Chittenden,practitioner,Queen's University,NA,NA,NA
-3,France,Bilodeau,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-4599-8754""",NA
-30,Maude,Laplante-Dubé,practitioner,UniversitÃ© Laval,"""https://scholar.google.com/citations?hl=en&user=hnfz7uIAAAAJ""","""https://orcid.org/0000-0001-8339-2959""",NA
+3,France,Bilodeau,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-4599-8754""",NA
+30,Maude,Laplante-Dubé,practitioner,Université Laval,"""https://scholar.google.com/citations?hl=en&user=hnfz7uIAAAAJ""","""https://orcid.org/0000-0001-8339-2959""",NA
 300,Cory,Laverty,practitioner,Queen's University,"""https://scholar.google.com/citations?hl=en&user=0s39VugAAAAJ""","""https://orcid.org/0000-0003-3457-4312""",NA
 301,Amanda,Ross-White,practitioner,Queen's University,"""https://scholar.google.com/citations?hl=en&user=UwDgyPQAAAAJ""",NA,NA
 302,Sarah,Wickett,practitioner,Queen's University,NA,"""https://orcid.org/0000-0002-9048-1375""",NA
@@ -1860,7 +1860,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 307,Constance,Adamson,practitioner,Queen's University,NA,NA,NA
 308,Morag,Coyne,practitioner,Queen's University,NA,NA,NA
 309,Heather,Mcmullen,practitioner,Queen's University,NA,NA,NA
-31,Martine,Gagnon,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-5256-2545""",NA
+31,Martine,Gagnon,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-5256-2545""",NA
 310,Ellen,Symons,practitioner,Queen's University,NA,NA,https://openalex.org/A2550105272
 311,Meghan,Goodchild,practitioner,Queen's University,"""https://scholar.google.com/citations?hl=en&user=_AdeukUAAAAJ""","""https://orcid.org/0000-0001-7988-8046""",NA
 312,Gillian,Akenson,practitioner,Queen's University,"""https://scholar.google.com/citations?hl=en&user=2ETLd_UAAAAJ""",NA,NA
@@ -1871,7 +1871,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 317,Jen,Amos,practitioner,Queen's University,NA,NA,NA
 318,Sylvia,Andrychuk,practitioner,Queen's University,NA,NA,NA
 319,Kim,Bell,practitioner,Queen's University,NA,NA,NA
-32,Pierre,Chicoine,practitioner,UniversitÃ© Laval,NA,NA,NA
+32,Pierre,Chicoine,practitioner,Université Laval,NA,NA,NA
 320,Francine,Berish,practitioner,Queen's University,NA,"""https://orcid.org/0000-0002-4793-4308""",NA
 321,Paola,Durando,practitioner,Queen's University,"""https://scholar.google.com/citations?hl=en&user=BH8w3-UAAAAJ""","""https://orcid.org/0000-0002-7012-8670""",NA
 322,Elizabeth,Gibson,practitioner,Queen's University,NA,NA,NA
@@ -1882,7 +1882,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 327,Mary Claire,Vandenburg,practitioner,Queen's University,NA,NA,NA
 328,Michael,Vandenburg,practitioner,Queen's University,NA,"""https://orcid.org/0000-0001-7205-2465""","https://openalex.org/A2670950604, https://openalex.org/A2491771132, https://openalex.org/A2239449384, https://openalex.org/A2145845301"
 329,Deirdre,Bryden,practitioner,Queen's University,NA,NA,NA
-33,Pierre,Lasou,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-1067-7061""",NA
+33,Pierre,Lasou,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-1067-7061""",NA
 330,Lisa,Gervais,practitioner,Queen's University,NA,NA,NA
 331,Jeremy,Heil,practitioner,Queen's University,NA,"""https://orcid.org/0000-0002-5013-7035""",NA
 332,Heather,Home,practitioner,Queen's University,NA,NA,NA
@@ -1893,7 +1893,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 337,Laura,Bredahl,practitioner,University of Waterloo,"""https://scholar.google.com/citations?hl=en&user=E5kANRoAAAAJ""","""https://orcid.org/0000-0002-9397-0764""",NA
 338,Sarah,Brown,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0001-5549-2581""",NA
 339,Lauren,Byl,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0003-4576-607X""",NA
-34,Simon-Pierre,Barrette,practitioner,UniversitÃ© Laval,NA,NA,NA
+34,Simon-Pierre,Barrette,practitioner,Université Laval,NA,NA,NA
 340,Caitlin,Carter,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0003-4391-7305""",NA
 341,Nancy,Collins,practitioner,University of Waterloo,NA,NA,NA
 342,Marian,Davies,practitioner,University of Waterloo,NA,NA,NA
@@ -1904,7 +1904,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 347,Dave,Gall,practitioner,University of Waterloo,NA,NA,NA
 348,Krista,Godfrey,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0002-2657-5609""",NA
 349,Betty,Graf,practitioner,University of Waterloo,NA,NA,NA
-35,Carole,Bergeron,practitioner,UniversitÃ© Laval,NA,NA,NA
+35,Carole,Bergeron,practitioner,Université Laval,NA,NA,NA
 350,Victoria,Chu,practitioner,University of Waterloo,NA,NA,NA
 351,Jennifer,Haas,practitioner,University of Waterloo,NA,NA,NA
 352,Jordan,Hale,practitioner,University of Waterloo,"""https://scholar.google.com/citations?hl=en&user=ah5RZsEAAAAJ""","""https://orcid.org/0000-0002-1534-2367""",NA
@@ -1915,7 +1915,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 357,Sandra,Keys,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0003-0601-0894""",NA
 358,Nicole,Marcogliese,practitioner,University of Waterloo,NA,NA,NA
 359,Alex,Mcculloch,practitioner,University of Waterloo,NA,NA,NA
-36,Julie,Gauthier,practitioner,UniversitÃ© Laval,NA,NA,NA
+36,Julie,Gauthier,practitioner,Université Laval,NA,NA,NA
 360,Kate,Mercer,practitioner,University of Waterloo,"""https://scholar.google.com/citations?hl=en&user=y-h-gy4AAAAJ""","""https://orcid.org/0000-0001-6958-3396""",NA
 361,Antonio,Munoz-Gomez,practitioner,University of Waterloo,NA,NA,NA
 362,Carmen,Peters,practitioner,University of Waterloo,NA,NA,NA
@@ -1926,7 +1926,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 367,Kathy,Szigeti,practitioner,University of Waterloo,NA,NA,NA
 368,Kari,Weaver,practitioner,University of Waterloo,"""https://scholar.google.com/citations?hl=en&user=-K0Hb7gAAAAJ""",NA,NA
 369,Johanna,Whitson,practitioner,University of Waterloo,NA,NA,NA
-37,Sarah,Samson,practitioner,UniversitÃ© Laval,NA,NA,NA
+37,Sarah,Samson,practitioner,Université Laval,NA,NA,NA
 370,Agnes,Zientarska-Kayko,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0002-6273-3483""",NA
 371,Danielle,Robichaud,practitioner,University of Waterloo,NA,"""https://orcid.org/0000-0002-5168-2828""",NA
 372,Harold,Averill,practitioner,University of Toronto,NA,NA,NA
@@ -1937,7 +1937,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 377,Natalya,Rattan,practitioner,University of Toronto,NA,NA,NA
 378,Christina,Stewart,practitioner,University of Toronto,NA,NA,NA
 379,Kelli,Babcock,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-3190-9773""",NA
-38,Maxime,Bouchard,practitioner,UniversitÃ© Laval,NA,NA,NA
+38,Maxime,Bouchard,practitioner,Université Laval,NA,NA,NA
 380,Alastair,Boyd,practitioner,University of Toronto,NA,NA,NA
 381,Graham,Bradshaw,practitioner,University of Toronto,NA,NA,NA
 382,Nelly,Cancilla,practitioner,University of Toronto,NA,NA,NA
@@ -1948,7 +1948,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 387,Daisy,Dowdall,practitioner,University of Toronto,NA,NA,NA
 388,Margaret,English,practitioner,University of Toronto,NA,NA,NA
 389,Sarah,Fedko,practitioner,University of Toronto,NA,NA,NA
-39,Sylvie,Bélanger,practitioner,UniversitÃ© Laval,NA,NA,NA
+39,Sylvie,Bélanger,practitioner,Université Laval,NA,NA,NA
 390,Sarah,Forbes,practitioner,University of Toronto,NA,NA,NA
 391,Sean,Forbes,practitioner,University of Toronto,NA,NA,NA
 392,Catherine,Fournier-Boulianne,practitioner,University of Toronto,NA,NA,NA
@@ -1959,8 +1959,8 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 397,Angela,Hamilton,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0003-3445-8928""",NA
 398,Jessica,Hanley,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-9640-7782""",NA
 399,Julie,Hannaford,practitioner,University of Toronto,NA,NA,NA
-4,Philippe,Boisvert,practitioner,UniversitÃ© Laval,"""https://scholar.google.com/citations?hl=en&user=GMukoSMAAAAJ""","""https://orcid.org/0000-0002-9618-6617""",NA
-40,Pierre,Carrier,practitioner,UniversitÃ© Laval,NA,NA,NA
+4,Philippe,Boisvert,practitioner,Université Laval,"""https://scholar.google.com/citations?hl=en&user=GMukoSMAAAAJ""","""https://orcid.org/0000-0002-9618-6617""",NA
+40,Pierre,Carrier,practitioner,Université Laval,NA,NA,NA
 400,Paula,Hannaford,practitioner,University of Toronto,NA,NA,NA
 401,Shelley,Hawrychuk,practitioner,University of Toronto,NA,NA,NA
 402,Emily,Hector,practitioner,University of Toronto,NA,NA,NA
@@ -1970,7 +1970,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 406,Patricia,Meindl,practitioner,University of Toronto,NA,NA,NA
 408,Klara,Maidenberg,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-2503-9636""",NA
 409,Caitlin,Tillman,practitioner,University of Toronto,NA,NA,"https://openalex.org/A2595336056, https://openalex.org/A2601540292, https://openalex.org/A2698925358, https://openalex.org/A2715386609, https://openalex.org/A2601540292, https://openalex.org/A2601540292, https://openalex.org/A2420649944"
-41,Isabelle,Chabot,practitioner,UniversitÃ© Laval,NA,NA,NA
+41,Isabelle,Chabot,practitioner,Université Laval,NA,NA,NA
 410,Margaret,Wall,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0003-2071-8231""",NA
 411,Madeline,Gerbig,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=-Va-5tEAAAAJ""","""https://orcid.org/0000-0003-1279-6360""",NA
 412,Maria M.,Zych,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=_8jquBoAAAAJ""","""https://orcid.org/0000-0002-9510-3875""",NA
@@ -1981,7 +1981,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 417,Leslie,Barnes,practitioner,University of Toronto,NA,NA,NA
 418,Rachel,Di Cresce,practitioner,University of Toronto,NA,NA,NA
 419,Bruce,Garrod,practitioner,University of Toronto,NA,NA,NA
-42,Jacinthe,Dostie,practitioner,UniversitÃ© Laval,NA,NA,NA
+42,Jacinthe,Dostie,practitioner,Université Laval,NA,NA,NA
 420,Jennifer,Robertson,practitioner,University of Toronto,NA,NA,NA
 421,Jihae (Julia),Chun,practitioner,University of Toronto,NA,NA,NA
 422,Lauran,Hartley,practitioner,University of Toronto,NA,NA,NA
@@ -1992,7 +1992,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 427,Mindy,Thuna,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=QmfUnmIAAAAJ""",NA,NA
 428,Tracy,Zahradnik,practitioner,University of Toronto,NA,NA,NA
 429,Heather,Buchansky,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=AE7EpEgAAAAJ""","""https://orcid.org/0000-0002-7958-3928""",NA
-43,Cynthia,Savard,practitioner,UniversitÃ© Laval,NA,NA,NA
+43,Cynthia,Savard,practitioner,Université Laval,NA,NA,NA
 430,Patricia,Ayala,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=rTObJ2wAAAAJ""","""https://orcid.org/0000-0002-3613-2270""",NA
 431,Glyneva,Bradley-Ridout,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=fFk9qp0AAAAJ""","""https://orcid.org/0000-0003-2879-9056""",NA
 432,Kaitlin,Fuller,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-8315-187X""",NA
@@ -2003,7 +2003,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 437,Elena,Spingall,practitioner,University of Toronto,NA,NA,NA
 438,Carey,Toane,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0001-8488-8550""",NA
 439,Victoria C.,Skelton,practitioner,University of Toronto,NA,NA,NA
-44,Léandre,Alain,practitioner,UniversitÃ© Laval,NA,NA,NA
+44,Léandre,Alain,practitioner,Université Laval,NA,NA,NA
 440,Sian,Meikle,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-5732-0019""",NA
 441,Kathleen A.,Schaeffer,practitioner,University of Toronto,NA,NA,NA
 442,Kate,Johnson,practitioner,University of Toronto,NA,NA,NA
@@ -2014,7 +2014,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 447,Humayun,Rashid,practitioner,University of Toronto,NA,NA,NA
 448,Eva,Jurczyk,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=KUOhGe0AAAAJ""",NA,NA
 449,Laure,Perrier,practitioner,University of Toronto,NA,NA,NA
-45,Alexandre,Breton,practitioner,UniversitÃ© Laval,NA,NA,NA
+45,Alexandre,Breton,practitioner,Université Laval,NA,NA,NA
 450,Kelly,Schultz,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=ZGis9xgAAAAJ""",NA,NA
 451,Leanne,Trimble,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0001-8148-9298""",NA
 452,P. J.,Macdougall,practitioner,University of Toronto,NA,NA,NA
@@ -2025,7 +2025,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 457,Fabiano Takashi,Rocha,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0001-5499-5443""",NA
 458,Anna,Slawek,practitioner,University of Toronto,NA,NA,NA
 459,Elisa,Sze,practitioner,University of Toronto,"""https://scholar.google.com/citations?hl=en&user=xrLd8TYAAAAJ""","""https://orcid.org/0000-0002-2620-4250""","https://openalex.org/A3208948399, https://openalex.org/A2063057064, https://openalex.org/A2063057064, https://openalex.org/A2233032368, https://openalex.org/A2232725731, https://openalex.org/A3096299863, https://openalex.org/A2063057064, https://openalex.org/A2063057064, https://openalex.org/A2063057064"
-46,Caroline,Dallaire,practitioner,UniversitÃ© Laval,NA,NA,NA
+46,Caroline,Dallaire,practitioner,Université Laval,NA,NA,NA
 460,Kyla,Jemison,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-8795-1372""",NA
 461,Jordan,Pedersen,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0003-4548-9957""",NA
 462,Trevor,Deck,practitioner,University of Toronto,NA,NA,NA
@@ -2069,7 +2069,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 497,Jennifer,Toews,practitioner,University of Toronto,NA,NA,NA
 498,Danielle,Van Wagner,practitioner,University of Toronto,NA,NA,NA
 499,Christopher,Hogendoorn,practitioner,University of Toronto,NA,"""https://orcid.org/0000-0002-9178-0422""",NA
-5,Marie-Claude,Corriveau,practitioner,UniversitÃ© Laval,NA,NA,NA
+5,Marie-Claude,Corriveau,practitioner,Université Laval,NA,NA,NA
 50,Houman,Behzadi,practitioner,McGill University,NA,NA,NA
 500,Kathryn (Katie),Holmes,practitioner,University of Toronto,NA,NA,NA
 501,Courtney,Lundrigan,practitioner,University of Toronto,NA,NA,NA
@@ -2148,74 +2148,74 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 569,Vincent,Ouellette,practitioner,Concordia University,NA,NA,NA
 57,Nathalie,Cooke,practitioner,McGill University,NA,NA,NA
 570,John,Richan,practitioner,Concordia University,NA,NA,NA
-571,Judith,Boissonneault,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-572,Diane,Girard,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-573,Marie-Renée,De Sève Leboeuf,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-574,Julie,Grenier,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-575,Frédérique,Duval,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-576,Mouna,Moumene,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-577,Catherine,Forget,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-578,Sonia,Seck,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-579,Marie,Stewart,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
+571,Judith,Boissonneault,practitioner,École de technologie supérieure,NA,NA,NA
+572,Diane,Girard,practitioner,École de technologie supérieure,NA,NA,NA
+573,Marie-Renée,De Sève Leboeuf,practitioner,École de technologie supérieure,NA,NA,NA
+574,Julie,Grenier,practitioner,École de technologie supérieure,NA,NA,NA
+575,Frédérique,Duval,practitioner,École de technologie supérieure,NA,NA,NA
+576,Mouna,Moumene,practitioner,École de technologie supérieure,NA,NA,NA
+577,Catherine,Forget,practitioner,École de technologie supérieure,NA,NA,NA
+578,Sonia,Seck,practitioner,École de technologie supérieure,NA,NA,NA
+579,Marie,Stewart,practitioner,École de technologie supérieure,NA,NA,NA
 58,Maryvon,Côté,practitioner,McGill University,"""https://scholar.google.com/citations?hl=en&user=oU01x0gAAAAJ""",NA,NA
-580,Vickie,Gagnon-Mountzouris,practitioner,Ã‰cole de technologie supÃ©rieure,"""https://scholar.google.com/citations?hl=en&user=9N-8NKwAAAAJ""",NA,NA
-581,Félix,Langevin-Harnois,practitioner,Ã‰cole de technologie supÃ©rieure,"""https://scholar.google.com/citations?hl=en&user=KM3aJMkAAAAJ""",NA,NA
-582,Josée,Guillemette,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-583,Nadine,Lemieux,practitioner,Ã‰cole de technologie supÃ©rieure,NA,NA,NA
-584,Caroline,Archambault,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,NA
-585,Daphné,Bélizaire,practitioner,Ã‰cole des hautes Ã©tudes commerciales,"""https://scholar.google.com/citations?hl=en&user=1scgnEcAAAAJ""","""https://orcid.org/0000-0003-1228-690X""","https://openalex.org/A2795037797, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156"
-586,Bernard,Bizimana,practitioner,Ã‰cole des hautes Ã©tudes commerciales,"""https://scholar.google.com/citations?hl=en&user=g6ScFaUAAAAJ""","""https://orcid.org/0000-0001-7663-9255""",NA
-587,Jean-Yves,Côté,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,NA
-588,Cinzia,Di Labio,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,NA
-589,Evelyne,Gratton,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,"https://openalex.org/A3017503578, https://openalex.org/A2768348608, https://openalex.org/A2538703913"
+580,Vickie,Gagnon-Mountzouris,practitioner,École de technologie supérieure,"""https://scholar.google.com/citations?hl=en&user=9N-8NKwAAAAJ""",NA,NA
+581,Félix,Langevin-Harnois,practitioner,École de technologie supérieure,"""https://scholar.google.com/citations?hl=en&user=KM3aJMkAAAAJ""",NA,NA
+582,Josée,Guillemette,practitioner,École de technologie supérieure,NA,NA,NA
+583,Nadine,Lemieux,practitioner,École de technologie supérieure,NA,NA,NA
+584,Caroline,Archambault,practitioner,École des hautes études commerciales,NA,NA,NA
+585,Daphné,Bélizaire,practitioner,École des hautes études commerciales,"""https://scholar.google.com/citations?hl=en&user=1scgnEcAAAAJ""","""https://orcid.org/0000-0003-1228-690X""","https://openalex.org/A2795037797, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156, https://openalex.org/A2742203156"
+586,Bernard,Bizimana,practitioner,École des hautes études commerciales,"""https://scholar.google.com/citations?hl=en&user=g6ScFaUAAAAJ""","""https://orcid.org/0000-0001-7663-9255""",NA
+587,Jean-Yves,Côté,practitioner,École des hautes études commerciales,NA,NA,NA
+588,Cinzia,Di Labio,practitioner,École des hautes études commerciales,NA,NA,NA
+589,Evelyne,Gratton,practitioner,École des hautes études commerciales,NA,NA,"https://openalex.org/A3017503578, https://openalex.org/A2768348608, https://openalex.org/A2538703913"
 59,Julien,Couture,practitioner,McGill University,NA,NA,NA
-590,Julie,Lemieux,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,NA
-591,Mireille,Nappert,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,NA
-592,Gabrielle,Taaffe Boivineau,practitioner,Ã‰cole des hautes Ã©tudes commerciales,NA,NA,NA
-593,Félix,De La Durantaye,practitioner,Ã‰cole nationale d'administration publique,NA,"""https://orcid.org/0000-0002-7507-5176""",NA
-594,Karine,Lamontagne,practitioner,Ã‰cole nationale d'administration publique,NA,NA,NA
-595,Azar,Younespour,practitioner,Ã‰cole nationale d'administration publique,NA,NA,NA
+590,Julie,Lemieux,practitioner,École des hautes études commerciales,NA,NA,NA
+591,Mireille,Nappert,practitioner,École des hautes études commerciales,NA,NA,NA
+592,Gabrielle,Taaffe Boivineau,practitioner,École des hautes études commerciales,NA,NA,NA
+593,Félix,De La Durantaye,practitioner,École nationale d'administration publique,NA,"""https://orcid.org/0000-0002-7507-5176""",NA
+594,Karine,Lamontagne,practitioner,École nationale d'administration publique,NA,NA,NA
+595,Azar,Younespour,practitioner,École nationale d'administration publique,NA,NA,NA
 596,Jean-Daniel,Bourgault,practitioner,INRS,NA,NA,NA
 597,Michel,Courcelles,practitioner,INRS,"""https://scholar.google.com/citations?hl=en&user=4yq6jLUAAAAJ""",NA,"https://openalex.org/A2315025168, https://openalex.org/A2315025168, https://openalex.org/A2315025168, https://openalex.org/A2309481769, https://openalex.org/A2309481769, https://openalex.org/A2309481769"
 598,Myrian,Grondin,practitioner,INRS,"""https://scholar.google.com/citations?hl=en&user=7XZCWO8AAAAJ""","""https://orcid.org/0000-0002-3236-8155""","https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A4209616798, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701, https://openalex.org/A2260944701"
 599,Jonathan,Dorey,practitioner,INRS,NA,"""https://orcid.org/0000-0002-8658-0004"", ""https://orcid.org/0000-0002-8658-0004""","https://openalex.org/A4227956662, https://openalex.org/A2040974693, https://openalex.org/A4221918597, https://openalex.org/A3100673863, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A3112352541, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A3110938534, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A2040974693, https://openalex.org/A2040974693"
-6,Marianne,Demers-Desmarais,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0003-3948-3700""",NA
+6,Marianne,Demers-Desmarais,practitioner,Université Laval,NA,"""https://orcid.org/0000-0003-3948-3700""",NA
 60,Katarina,Daniels,practitioner,McGill University,NA,"""https://orcid.org/0000-0003-3723-8082""",NA
 600,Nathalie,Vachon,practitioner,INRS,NA,NA,NA
 601,Maude,Côté,practitioner,INRS,NA,NA,NA
 602,François,Cartier,practitioner,INRS,NA,NA,NA
 603,Jeanne,Darche,practitioner,INRS,NA,NA,NA
 604,Isabelle,Racine,practitioner,INRS,NA,NA,NA
-605,Mélissa,Beaudry,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-606,Irina,Gherasim,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-607,Anita,Mazur,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-608,Manon,Du Ruisseau,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-609,Élise Anne,Basque,practitioner,Polytechnique MontrÃ©al,"""https://scholar.google.com/citations?hl=en&user=GFyQhOYAAAAJ""","""https://orcid.org/0000-0003-2354-2016""",NA
+605,Mélissa,Beaudry,practitioner,Polytechnique Montréal,NA,NA,NA
+606,Irina,Gherasim,practitioner,Polytechnique Montréal,NA,NA,NA
+607,Anita,Mazur,practitioner,Polytechnique Montréal,NA,NA,NA
+608,Manon,Du Ruisseau,practitioner,Polytechnique Montréal,NA,NA,NA
+609,Élise Anne,Basque,practitioner,Polytechnique Montréal,"""https://scholar.google.com/citations?hl=en&user=GFyQhOYAAAAJ""","""https://orcid.org/0000-0003-2354-2016""",NA
 61,Robin Elizabeth,Desmeules,practitioner,McGill University,NA,"""https://orcid.org/0000-0002-5801-518X""",NA
-610,Olivia,Fernandez Pereda,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-611,Camille,Fitch-Kustcher,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-612,Jimmy,Roberge,practitioner,Polytechnique MontrÃ©al,NA,"""https://orcid.org/0000-0002-8928-3152""",NA
-613,Arina,Soare,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-614,Iuliana Maria,Udrea,practitioner,Polytechnique MontrÃ©al,NA,NA,NA
-615,Mireille,Léger-Rousseau,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-616,Nathalie,St-Jacques,practitioner,UniversitÃ© de Sherbrooke,"""https://scholar.google.com/citations?hl=en&user=l73HlLsAAAAJ""",NA,NA
-617,Camille-Hélène,St-Aubin,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-618,Sophie,St-Cyr,practitioner,UniversitÃ© de Sherbrooke,NA,"""https://orcid.org/0000-0001-5972-4650""",NA
-619,Julie,Mayrand,practitioner,UniversitÃ© de Sherbrooke,"""https://scholar.google.com/citations?hl=en&user=XI4e_JQAAAAJ""","""https://orcid.org/0000-0001-5665-7413""",NA
+610,Olivia,Fernandez Pereda,practitioner,Polytechnique Montréal,NA,NA,NA
+611,Camille,Fitch-Kustcher,practitioner,Polytechnique Montréal,NA,NA,NA
+612,Jimmy,Roberge,practitioner,Polytechnique Montréal,NA,"""https://orcid.org/0000-0002-8928-3152""",NA
+613,Arina,Soare,practitioner,Polytechnique Montréal,NA,NA,NA
+614,Iuliana Maria,Udrea,practitioner,Polytechnique Montréal,NA,NA,NA
+615,Mireille,Léger-Rousseau,practitioner,Université de Sherbrooke,NA,NA,NA
+616,Nathalie,St-Jacques,practitioner,Université de Sherbrooke,"""https://scholar.google.com/citations?hl=en&user=l73HlLsAAAAJ""",NA,NA
+617,Camille-Hélène,St-Aubin,practitioner,Université de Sherbrooke,NA,NA,NA
+618,Sophie,St-Cyr,practitioner,Université de Sherbrooke,NA,"""https://orcid.org/0000-0001-5972-4650""",NA
+619,Julie,Mayrand,practitioner,Université de Sherbrooke,"""https://scholar.google.com/citations?hl=en&user=XI4e_JQAAAAJ""","""https://orcid.org/0000-0001-5665-7413""",NA
 62,Anna,Di Pietro,practitioner,McGill University,NA,NA,NA
-620,Josée,Toulouse,practitioner,UniversitÃ© de Sherbrooke,"""https://scholar.google.com/citations?hl=en&user=CdmTqZgAAAAJ""","""https://orcid.org/0000-0002-1208-8084""",NA
-621,Cindy,Beauchesne-Jolin,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-622,Judith,Michaud,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-623,Simon,Trottier,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-624,Claire,Lecompte,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-625,Myriam,Beaudet,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-626,Miguel,Escobar,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-627,Karl,Mongrain,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-628,Marie-Claure,Fortier,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
+620,Josée,Toulouse,practitioner,Université de Sherbrooke,"""https://scholar.google.com/citations?hl=en&user=CdmTqZgAAAAJ""","""https://orcid.org/0000-0002-1208-8084""",NA
+621,Cindy,Beauchesne-Jolin,practitioner,Université de Sherbrooke,NA,NA,NA
+622,Judith,Michaud,practitioner,Université de Sherbrooke,NA,NA,NA
+623,Simon,Trottier,practitioner,Université de Sherbrooke,NA,NA,NA
+624,Claire,Lecompte,practitioner,Université de Sherbrooke,NA,NA,NA
+625,Myriam,Beaudet,practitioner,Université de Sherbrooke,NA,NA,NA
+626,Miguel,Escobar,practitioner,Université de Sherbrooke,NA,NA,NA
+627,Karl,Mongrain,practitioner,Université de Sherbrooke,NA,NA,NA
+628,Marie-Claure,Fortier,practitioner,Université de Sherbrooke,NA,NA,NA
 63,Eamon,Duffy,practitioner,McGill University,"""https://scholar.google.com/citations?hl=en&user=H9IOmucAAAAJ""",NA,NA
-630,Philippe,Ménard,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-631,Kathy,Rose,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
-632,Danielle,Roy,practitioner,UniversitÃ© de Sherbrooke,NA,NA,NA
+630,Philippe,Ménard,practitioner,Université de Sherbrooke,NA,NA,NA
+631,Kathy,Rose,practitioner,Université de Sherbrooke,NA,NA,NA
+632,Danielle,Roy,practitioner,Université de Sherbrooke,NA,NA,NA
 633,Bruyère,Bruyère,practitioner,UQAC,NA,NA,NA
 634,Luc,Charron,practitioner,UQAC,"""https://scholar.google.com/citations?hl=en&user=BGCTvYIAAAAJ""",NA,NA
 635,Laïla,Ferris,practitioner,UQAC,NA,NA,NA
@@ -2289,7 +2289,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 697,Béatrice Lecomte,Lecomte,practitioner,UQAM,NA,NA,NA
 698,Mélanie,Couture,practitioner,UQAM,NA,NA,"https://openalex.org/A2692112212, https://openalex.org/A2159750221"
 699,Antoine,Archambault,practitioner,UQTR,"""https://scholar.google.com/citations?hl=en&user=Q1SZQLwAAAAJ""","""https://orcid.org/0000-0001-6668-1521"", ""https://orcid.org/0000-0001-6668-1521""","https://openalex.org/A2581727927, https://openalex.org/A2581727927, https://openalex.org/A2581727927, https://openalex.org/A2581727927, https://openalex.org/A2581727927, https://openalex.org/A2581727927"
-7,Richard,Dufour,practitioner,UniversitÃ© Laval,NA,NA,NA
+7,Richard,Dufour,practitioner,Université Laval,NA,NA,NA
 70,Katherine,Hanz,practitioner,McGill University,"""https://scholar.google.com/citations?hl=en&user=9tKqx1cAAAAJ""",NA,NA
 700,Mathieu,Ayoub,practitioner,UQTR,NA,"""https://orcid.org/0000-0002-0062-4345""",NA
 701,Marjorie,Bilodeau,practitioner,UQTR,NA,NA,NA
@@ -2398,7 +2398,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 797,Jason,Zou,practitioner,Lakehead University,NA,NA,NA
 798,Heather,Mctavish,practitioner,Ontario Tech University,"""https://scholar.google.com/citations?hl=en&user=rmC9o8cAAAAJ""","""https://orcid.org/0000-0003-3401-2707""",NA
 799,Chelsie,Lalonde,practitioner,Ontario Tech University,NA,NA,NA
-8,Véronique,Gosselin-Michiels,practitioner,UniversitÃ© Laval,NA,NA,NA
+8,Véronique,Gosselin-Michiels,practitioner,Université Laval,NA,NA,NA
 80,Lucy,Kiester,practitioner,McGill University,NA,"""https://orcid.org/0000-0003-3465-8110""",NA
 800,Thomas,Blennerhassett,practitioner,Ontario Tech University,NA,"""https://orcid.org/0000-0002-6856-262X""",NA
 801,Lydia,Thorne,practitioner,Ontario Tech University,"""https://scholar.google.com/citations?hl=en&user=E5bEuzsAAAAJ""",NA,NA
@@ -2507,7 +2507,7 @@ author_id,first_name,last_name,status,last_known_institution,google_scholar,orci
 897,Michelle,Goodridge,practitioner,Wilfrid Laurier University,NA,"""https://orcid.org/0000-0003-3874-3742""","https://openalex.org/A3011912996, https://openalex.org/A2964734409"
 898,Hélène,Leblanc,practitioner,Wilfrid Laurier University,NA,NA,NA
 899,Yanli,Li,practitioner,Wilfrid Laurier University,"""https://scholar.google.ca/citations?hl=en&user=JH6oHxMAAAAJ""","""https://orcid.org/0000-0001-6194-437X""",NA
-9,Marie-Claude,Laferrière,practitioner,UniversitÃ© Laval,NA,"""https://orcid.org/0000-0002-2820-1387""",NA
+9,Marie-Claude,Laferrière,practitioner,Université Laval,NA,"""https://orcid.org/0000-0002-2820-1387""",NA
 90,Aeron Dalziel,Machattie,practitioner,McGill University,NA,NA,NA
 900,Matt,Tales,practitioner,Wilfrid Laurier University,NA,NA,NA
 901,Matthew,Rohweder,practitioner,Wilfrid Laurier University,NA,NA,NA
